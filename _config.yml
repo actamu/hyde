@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Humor
 tagline:          'Evolution of Comedy'
 description:      'The core argument of this website is to target high school and college demographics to show how the content of humor seldom changes due to a longevity of human experience. However, the format evolving reflects the culture. Additionally, the common variable across all forms of humor is the end goal: to make people laugh and leave them happy.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              http://actamu.github.io
+baseurl:          /laughing-aggies/
 
 author:
   name:           'Mark Otto'
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.2.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/actamu/laughing-aggies/
