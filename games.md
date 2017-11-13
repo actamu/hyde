@@ -1,6 +1,6 @@
 ---
-layout: title
-page: Games
+layout: page
+title: Games
 ---
 
 <p class="message">
