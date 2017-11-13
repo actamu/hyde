@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Humor
+tagline:          'Evolution of Comedy'
+description:      'The core argument of this website is to target high school and college demographics to show how the content of humor seldom changes due to a longevity of human experience. However, the format evolving reflects the culture. Additionally, the common variable across all forms of humor is the end goal: to make people laugh and leave them happy.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          2.2.0
 
 github:
   repo:           https://github.com/poole/hyde
