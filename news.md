@@ -1,6 +1,6 @@
 ---
 layout: page
-page: News
+title: News
 ---
 
 <p class="message">
