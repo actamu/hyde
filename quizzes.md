@@ -1,6 +1,6 @@
 ---
-layout: title
-page: Quizzes
+layout: page
+title: Quizzes
 ---
 
 <p class="message">
