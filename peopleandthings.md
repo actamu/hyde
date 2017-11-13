@@ -1,6 +1,6 @@
 ---
-layout: title
-page: People & Things
+layout: page
+title: People & Things
 ---
 
 <p class="message">
