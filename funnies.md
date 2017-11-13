@@ -1,6 +1,6 @@
 ---
-layout: title
-page: Funnies
+layout: page
+title: Funnies
 ---
 
 <p class="message">
