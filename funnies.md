@@ -7,12 +7,12 @@ title: Funnies
   This tab will comprise of all kinds of visual and verbal humor: comics, memes, videos, jokes, etc.
 </p>
 
-##Comics
+## Comics
 
-##Memes
+## Memes
 
-##Videos
+## Videos
 
-#Jokes
+## Jokes
 
 Visit other tabs to learn more!
