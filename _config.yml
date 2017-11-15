@@ -9,7 +9,7 @@ plugins:          [jekyll-paginate]
 # Setup
 title:            Humor
 tagline:          'Evolution of Comedy'
-description:      'This website argues how humor seldom changes due to the longevity of human experience. Additionally, as the format of comedy evolves, the culture of the time period is reflected while keeping one variable consistent: making people happy.'
+description:      'This website argues how humor seldom changes due to the longevity of human experience. As the format of comedy evolves, notice how the culture of the time is reflected while one variable is consistent: making people happy.'
 url:              http://actamu.github.io
 baseurl:          /laughing-aggies/
 
