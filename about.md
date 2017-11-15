@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Timeline
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page will exhibit the evolution of different types of humor over the past centuries, decades, and years. For the purposes of the mockup, we are going to leave the help links at the bottom of the page as sources to continue working on the project. The final product of this page will definitely not be including the bottom section of sources and only display the timeline created on Storyline.
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
