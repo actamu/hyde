@@ -13,6 +13,8 @@ title: Funnies
 
 ![Aplus](https://actamu.github.io/laughing-aggies/public/images/Aplus.png)
 
-> Scott Adams is the writer and creator of Dilbert.  He has a formula for humor, which he calls the Six (7 kB) [6 Dimensions of Humor According to Scott Adams - Endless Watts](http://endlesswatts.com/6-dimensions-of-humor-according-to-scott-adams/).
+> Scott Adams is the writer and creator of Dilbert.  He has a formula for humor, which he calls the Six: [6 Dimensions of Humor According to Scott Adams - Endless Watts](http://endlesswatts.com/6-dimensions-of-humor-according-to-scott-adams/).
 
-Visit other tabs to learn more!
+![Ghandi Funny](https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg)
+
+> Here are 22 funny quotes famous people have said. There are plenty of cases where sarcasm is the main ingredient to the humor: [22 Funny Quotes Famous People In History Said That Are Still Hilarious](http://theawesomedaily.com/funny-quotes-from-famous-people-in-history/)
