@@ -9,7 +9,9 @@ title: Funnies
 
 ## Comics
 
-## Memes
+![Terrible Cat Meme](https://actamu.github.io/laughing-aggies/public/images/gym_class.png)
+
+> Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
 
 ## Videos
 
