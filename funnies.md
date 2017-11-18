@@ -20,3 +20,5 @@ title: Funnies
 > Here are 22 funny quotes famous people have said. There are plenty of cases where sarcasm is the main ingredient to the humor: [22 Funny Quotes Famous People In History Said That Are Still Hilarious](http://theawesomedaily.com/funny-quotes-from-famous-people-in-history/)
 
 ![WTF President Jackson](https://actamu.github.io/laughing-aggies/public/images/wtf_presjackson.jpg)
+
+![God Cat Paws](https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg)
