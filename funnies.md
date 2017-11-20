@@ -23,4 +23,4 @@ title: Funnies
 
 ![God Cat Paws](https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4r7wHMg5Yjg" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4r7wHMg5Yjg" frameborder="0" allowfullscreen="1"> </iframe>
