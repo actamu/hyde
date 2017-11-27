@@ -7,4 +7,4 @@ title: Games
   This tab will incorporate a variety of online games aimed to entertain and make audiences happy. These games will be selected based on their ability to support one or more points of our argument.
 </p>
 
-Visit other tabs to learn more!
+[![There Is No Game](https://actamu.github.io/laughing-aggies/public/images/there_is_no_game.jpg)](http://www.coolmath-games.com/0-there-is-no-game)
