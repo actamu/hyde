@@ -23,4 +23,8 @@ title: Funnies
 
 ![God Cat Paws](https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg)
 
+![Roman Comedy](https://actamu.github.io/laughing-aggies/public/images/romancomedy.png)
+
+> Combination of antiquity paintings with modern humor.
+
 {% include youtubePlayer.html id=page.4r7wHMg5Yjg %}
