@@ -8,3 +8,5 @@ title: Games
 </p>
 
 [![There Is No Game](https://actamu.github.io/laughing-aggies/public/images/there_is_no_game.jpg)](http://www.coolmath-games.com/0-there-is-no-game)
+
+> This is not a game. It is not fun. Please do not click it. :smiling_imp:
