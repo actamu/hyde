@@ -19,6 +19,9 @@ author:
 
 paginate:         5
 
+gems:
+- jemoji
+
 # Custom vars
 version:          2.2.0
 
