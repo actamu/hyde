@@ -19,17 +19,9 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="500" width="400" ></a>
 > Here are 22 funny quotes famous people have said. There are plenty of cases where sarcasm is the main ingredient to the humor: [22 Funny Quotes Famous People In History Said That Are Still Hilarious](http://theawesomedaily.com/funny-quotes-from-famous-people-in-history/)
 
-## Fun Fact #1: WTF President Jackson!
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wtf_presjackson.jpg" align="left" height="500" width="475" ></a>
-> Wonder what kinds of conversations President Jackson had in his home!
-
 ## Forum Revelation #1: God Cat Paws
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="600" width="400" ></a>
 > Cat paws to the rescue!
-
-## Fun Fact #1: WTF President Jackson!
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wtf_presjackson.jpg" align="left" height="500" width="475" ></a>
-> Wonder what kinds of conversations President Jackson had in his home!
 
 ## Meme #1: Roman Love Interuptions
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="600" width="450" ></a>
