@@ -31,5 +31,5 @@ title: Funnies
 ![Earbud Etiquette](https://actamu.github.io/laughing-aggies/public/images/modern_hattip.png)
 > This line perfectly exemplifies the cultural changes over the centuries, and in this case, the change is in public etiquette.
 
-## Video #1: Honey Badgers Don't Care
-[![Honey Badgers Don't Care](https://lh3.googleusercontent.com/ZIUMWBmLHSBXQgRNB-R8KTDBN_hOmUYI2mu85nLXXYy6QWTmm2Pe8OMbXYJTDD0BPvIM=s151)](https://www.youtube.com/watch?v=4r7wHMg5Yjg "Honey Badgers Don't Care")
+## Video #1: "Honey Badger Don't Care (original narration by Randall)"
+<a href="url"><img src="https://lh3.googleusercontent.com/ZIUMWBmLHSBXQgRNB-R8KTDBN_hOmUYI2mu85nLXXYy6QWTmm2Pe8OMbXYJTDD0BPvIM=s151" height="600" width="450" ></a> (https://www.youtube.com/watch?v=4r7wHMg5Yjg "Honey Badgers Don't Care")
