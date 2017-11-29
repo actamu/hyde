@@ -25,6 +25,7 @@ title: Funnies
 
 ## Forum Revelation #1: God Cat Paws
 ![God Cat Paws](https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg)
+> Cat paws to the rescue!
 
 ## Meme #1: Roman Love Interuptions
 ![Roman Comedy](https://actamu.github.io/laughing-aggies/public/images/romancomedy.png)
