@@ -24,7 +24,7 @@ title: Funnies
 > Wonder what kinds of conversations President Jackson had in his home!
 
 ## Forum Revelation #1: God Cat Paws
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="550" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="600" width="400" ></a>
 > Cat paws to the rescue!
 
 ## Meme #1: Roman Love Interuptions
