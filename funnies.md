@@ -28,7 +28,7 @@ title: Funnies
 > Cat paws to the rescue!
 
 ## Meme #1: Roman Love Interuptions
-![Roman Comedy](https://actamu.github.io/laughing-aggies/public/images/romancomedy.png)
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="600" width="450" ></a>
 > Combination of antiquity paintings with modern humor.
 
 ## Quote #2: Earbud Etiquette
