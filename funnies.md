@@ -8,7 +8,7 @@ title: Funnies
 </p>
 
 ## Joke #1: 90s Gym Class
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" align="left" height="400" width="600" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="400" width="600" ></a>
 > Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
 
 ## Types of Funnies
@@ -16,7 +16,7 @@ title: Funnies
 > Scott Adams is the writer and creator of Dilbert.  He has a formula for humor, which he calls the Six: [6 Dimensions of Humor According to Scott Adams - Endless Watts](http://endlesswatts.com/6-dimensions-of-humor-according-to-scott-adams/).
 
 ## Quote #1: Ghandi Funny
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" align="left" height="500" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="500" width="400" ></a>
 > Here are 22 funny quotes famous people have said. There are plenty of cases where sarcasm is the main ingredient to the humor: [22 Funny Quotes Famous People In History Said That Are Still Hilarious](http://theawesomedaily.com/funny-quotes-from-famous-people-in-history/)
 
 ## Fun Fact #1: WTF President Jackson!
