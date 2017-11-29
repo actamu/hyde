@@ -35,6 +35,6 @@ title: Funnies
 <a href="url"><img src="https://lh3.googleusercontent.com/ZIUMWBmLHSBXQgRNB-R8KTDBN_hOmUYI2mu85nLXXYy6QWTmm2Pe8OMbXYJTDD0BPvIM=s151" height="280" width="475" ></a> (https://www.youtube.com/watch?v=4r7wHMg5Yjg "Honey Badger Don't Care")
 
 ## Meme #2: Cesar Being Lit
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="600" width="450" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="550" width="300" ></a>
 > Interlacing of an ancient leader with modern humor.
 
