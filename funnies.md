@@ -31,4 +31,5 @@ title: Funnies
 ![Earbud Etiquette](https://actamu.github.io/laughing-aggies/public/images/modern_hattip.png)
 > This line perfectly exemplifies the cultural changes over the centuries, and in this case, the change is in public etiquette.
 
-{% include youtubePlayer.html id=page.4r7wHMg5Yjg %}
+## Video #1: Honeybadgers Don't Care
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
