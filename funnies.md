@@ -21,6 +21,7 @@ title: Funnies
 
 ## Fun Fact #1: WTF President Jackson!
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wtf_presjackson.jpg" align="left" height="500" width="450" ></a>
+> Wonder what kinds of conversations President Jackson had in his home!
 
 ## Forum Revelation #1: God Cat Paws
 ![God Cat Paws](https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg)
