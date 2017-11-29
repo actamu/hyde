@@ -32,4 +32,4 @@ title: Funnies
 > This line perfectly exemplifies the cultural changes over the centuries, and in this case, the change is in public etiquette.
 
 ## Video #1: Honeybadgers Don't Care
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Crazy Honeybadger](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://i.ytimg.com/an_webp/4r7wHMg5Yjg/mqdefault_6s.webp?du=3000&sqp=CLCH_NAF&rs=AOn4CLDFsfNq23tZ-ef--wj1-t9kj30nCw "Crazy Honeybadger")
