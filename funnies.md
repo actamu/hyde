@@ -7,8 +7,8 @@ title: Funnies
   This tab will comprise of all kinds of visual and verbal humor: comics, memes, videos, jokes, etc.
 </p>
 
-![Terrible Cat Meme](https://actamu.github.io/laughing-aggies/public/images/gym_class.png)
-
+## Gym Class Joke
+![Gym Class Meme](https://actamu.github.io/laughing-aggies/public/images/gym_class.png)
 > Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
 
 ![Aplus](https://actamu.github.io/laughing-aggies/public/images/Aplus.png)
