@@ -27,6 +27,10 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="600" width="400" ></a>
 > Cat paws to the rescue!
 
+## Fun Fact #1: WTF President Jackson!
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wtf_presjackson.jpg" align="left" height="500" width="475" ></a>
+> Wonder what kinds of conversations President Jackson had in his home!
+
 ## Meme #1: Roman Love Interuptions
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="600" width="450" ></a>
 > Combination of antiquity paintings with modern humor.
