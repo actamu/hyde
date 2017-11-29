@@ -21,7 +21,7 @@ title: Funnies
 
 ## Forum Revelation #1: God Cat Paws
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="600" width="400" ></a>
-> Cat paws to the rescue!
+> God Cat paws is watching!
 
 ## Meme #1: Roman Love Interuptions
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="600" width="450" ></a>
