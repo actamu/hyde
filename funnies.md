@@ -8,7 +8,7 @@ title: Funnies
 </p>
 
 ## Joke #1: 90s Gym Class
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Aplus.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" align="left" height="400" width="400" ></a>
 ![Gym Class Meme](https://actamu.github.io/laughing-aggies/public/images/gym_class.png)
 > Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
 
