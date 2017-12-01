@@ -39,7 +39,7 @@ title: Funnies
 > Interlacing of an ancient leader with modern humor.
 
 ## Video #2: "asdfmovie10"
-[![asdfmovie10](https://actamu.github.io/laughing-aggies/public/images/asdfmovie10.jpg)](https://www.youtube.com/watch?v=foFKXS6Nyho)
+[<img src="https://actamu.github.io/laughing-aggies/public/images/asdfmovie10.jpg" width="400" alt="asdfmovie10">] (https://www.youtube.com/watch?v=foFKXS6Nyho)
 
 
 
