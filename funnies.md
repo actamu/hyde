@@ -38,3 +38,8 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="500" width="400" ></a>
 > Interlacing of an ancient leader with modern humor.
 
+## Video #1: "asdfmovie10"
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/asdfmovie10.jpg" height="280" width="475" ></a> (https://www.youtube.com/watch?v=foFKXS6Nyho "asdfmovie10")
+
+
+
