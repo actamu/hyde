@@ -8,7 +8,7 @@ title: Funnies
 </p>
 
 ## Joke #1: 90s Gym Class
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="2500" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="250" width="400" ></a>
 > Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
 
 ## Types of Funnies
