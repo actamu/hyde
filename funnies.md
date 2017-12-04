@@ -43,7 +43,7 @@ title: Funnies
 > TomSka is a viral YouTube creator who loves to produce random videos including erratic, corny, and dark humor that include both new content and content that references to his past work.
 
 ## Meme #3: Babylonian Complaints Type A
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/copper_complaint.jpg" height="900" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/copper_complaint.jpg" height="1100" width="400" ></a>
 > The showcase of ancient "spam" mail via the internet.
 
 
