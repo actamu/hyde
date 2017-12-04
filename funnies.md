@@ -47,7 +47,7 @@ title: Funnies
 > The showcase of ancient "spam" mail via the internet.
 
 ## Quote #3: Encouragement for the Masses
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/unique_encouragement_quote.jpg" height="400" width="350" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/unique_encouragement_quote.jpg" height="350" width="400" ></a>
 > This quote displays sarcasm by playing you into believing you're reading encouragement while it is essentially ridiculing you. :satisfied:
 
 
