@@ -32,7 +32,7 @@ title: Funnies
 > This line perfectly exemplifies the cultural changes over the centuries, and in this case, the change is in public etiquette.
 
 ## Video #1: "Honey Badger Don't Care (original narration by Randall)"
-<a href="https://www.youtube.com/watch?v=4r7wHMg5Yjg"><img src="https://lh3.googleusercontent.com/ZIUMWBmLHSBXQgRNB-R8KTDBN_hOmUYI2mu85nLXXYy6QWTmm2Pe8OMbXYJTDD0BPvIM=s151" width="400" alt="asdfmovie10"></a>
+<a href="https://www.youtube.com/watch?v=4r7wHMg5Yjg"><img src="https://actamu.github.io/laughing-aggies/public/images/honeybadger.png" width="400" alt="honeybadgerdontcare"></a>
 
 ## Meme #2: Ceasar Being Lit
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="500" width="400" ></a>
