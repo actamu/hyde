@@ -34,7 +34,7 @@ title: Funnies
 ## Video #1: "Honey Badger Don't Care (original narration by Randall)"
 <a href="https://www.youtube.com/watch?v=4r7wHMg5Yjg"><img src="https://lh3.googleusercontent.com/ZIUMWBmLHSBXQgRNB-R8KTDBN_hOmUYI2mu85nLXXYy6QWTmm2Pe8OMbXYJTDD0BPvIM=s151" width="400" alt="asdfmovie10"></a>
 
-## Meme #2: Cesar Being Lit
+## Meme #2: Ceasar Being Lit
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="500" width="400" ></a>
 > Interlacing of an ancient leader with modern humor.
 
@@ -45,5 +45,9 @@ title: Funnies
 ## Meme #3: Babylonian Complaints Type A
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/copper_complaint.jpg" height="1500" width="400" ></a>
 > The showcase of ancient "spam" mail via the internet.
+
+## Quote #3: Encouragement for the Masses
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/unique_encouragement_quote.jpg" height="500" width="400" ></a>
+> This quote displays sarcasm by playing you into believing you're reading encouragement while it is essentially ridiculing you. :satisfied:
 
 
