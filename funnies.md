@@ -53,7 +53,7 @@ title: Funnies
 
 ## Meme #4: What Scares Me More
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/what_scares_me.jpg" height="275" width="400" ></a>
-> What scares you more? :ghost: #HorrorVSTruth
+> What scares you more? #HorrorVSTruth :ghost:
 
 ## Jokes Galore: The 100 Jokes That Shaped Modern Comedy
 <a href="http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs_playing_poker.jpg" height="275" width="400" ></a>
