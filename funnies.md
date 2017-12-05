@@ -51,4 +51,8 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/unique_encouragement_quote.jpg" height="300" width="400" ></a>
 > This quote displays sarcasm by playing you into believing you're reading encouragement while it is essentially ridiculing you. :satisfied:
 
+## Meme #4: What Scares Me
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/what_scares_me.jpg" height="400" width="275" ></a>
+> What scares you more? #HorrorVSTruth
+
 
