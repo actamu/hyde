@@ -51,8 +51,11 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/unique_encouragement_quote.jpg" height="300" width="400" ></a>
 > This quote displays sarcasm by playing you into believing you're reading encouragement while it is essentially ridiculing you. :satisfied:
 
-## Meme #4: What Scares Me
+## Meme #4: What Scares Me More
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/what_scares_me.jpg" height="275" width="400" ></a>
 > What scares you more? :ghost: #HorrorVSTruth
 
+## Jokes Galore: The 100 Jokes That Shaped Modern Comedy
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs_playing_poker.jpg" height="400" width="300" ></a>
+> From the Marx Brothers to The Simpsons, Richard Pryor to Amy Schumer - 100 bits, sketches, and one-liners that changed humor forever: [The 100 Jokes That Shaped Modern Comedy](http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html)
 
