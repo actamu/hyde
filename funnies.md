@@ -60,7 +60,7 @@ title: Funnies
 > From the Marx Brothers to The Simpsons, Richard Pryor to Amy Schumer - 100 bits, sketches, and one-liners that changed humor forever: [The 100 Jokes That Shaped Modern Comedy](http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html)
 
 ## Joke #2: A Cat and Its Tail 
-<img src="https://actamu.github.io/laughing-aggies/public/images/cat-tail-joke.png" height="250" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat-tail-joke.png" height="350" width="400" ></a>
 > Puns are one of the oldest ways of using corny humor.
 
 
