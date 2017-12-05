@@ -63,4 +63,7 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat-tail-joke.png" height="350" width="400" ></a>
 > Puns are one of the oldest ways of using corny humor.
 
+## Video #3: "Evolution of Dance"
+<a href="https://www.youtube.com/watch?v=dMH0bHeiRNg"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="evolutionofdance"></a>
+> This video immediately went viral when it was first posted. Scientists do not fully understand why, but people get a kick out of watching others dance.
 
