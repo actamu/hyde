@@ -13,4 +13,4 @@ title: Games
 
 ## Mad Libs
 <a href="http://www.madtakes.com/"><img src="https://actamu.github.io/laughing-aggies/public/images/madlibs.jpg" height="275" width="450" ></a>
-> Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud. The game is frequently played as a party game or as a pastime: [Mad Libs](http://www.madtakes.com/)
+> Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud. The game is frequently played as a party game or as a pastime: [Mad Libs - The World's Greatest Word Game](http://www.madtakes.com/)
