@@ -36,7 +36,7 @@ title: Funnies
 > This video displays some of the original comedy videos uploaded to YouTube: voice overs. This particular video went viral due to someone putting their own spin to how the honey badger lives its everyday life without holding back on its language.
 
 ## Meme #2: Ceasar Being Lit
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="500" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="450" width="400" ></a>
 > Interlacing of an ancient leader with modern humor.
 
 ## Video #2: "asdfmovie10"
