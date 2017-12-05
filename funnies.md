@@ -53,6 +53,6 @@ title: Funnies
 
 ## Meme #4: What Scares Me
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/what_scares_me.jpg" height="275" width="400" ></a>
-> What scares you more? #HorrorVSTruth
+> What scares you more? :ghost: #HorrorVSTruth
 
 
