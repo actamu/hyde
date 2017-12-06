@@ -41,7 +41,7 @@ title: Timeline
   </ul>
   <li>1936 A.D.</li>
   <ul>
-    <li><a href=" https://www.youtube.com/watch?v=HPSK4zZtzLI">Charlie Chaplin</a></li>
+    <li><a href="https://www.youtube.com/watch?v=HPSK4zZtzLI">Charlie Chaplin</a></li>
   </ul>
   <li>1945 A.D.</li>
   <ul>
