@@ -41,11 +41,11 @@ title: Timeline
   </ul>
   <li>1936 A.D.</li>
   <ul>
-    <li><a href=" https://www.youtube.com/watch?v=HPSK4zZtzLI"></a>Charlie Chaplin</li>
+    <li><a href=" https://www.youtube.com/watch?v=HPSK4zZtzLI">Charlie Chaplin</a></li>
   </ul>
   <li>1945 A.D.</li>
   <ul>
-    <li>Kilroy</li>
+    <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here">Kilroy</a></li>
   </ul>
   <li>1975 A.D.</li>
   <ul>
