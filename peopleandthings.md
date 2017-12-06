@@ -12,7 +12,7 @@ title: People & Things
 > Greek comic dramatist (450 B.C. - 388 B.C.): [Aristophanes Quotes](http://www.notable-quotes.com/a/aristophanes_quotes_ii.html).
 
 ## Benjamin Franklin
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ben_frank.jpg" height="275" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ben_frank.jpg" height="275" width="425" ></a>
 
 Ever fond of pseudonyms, one of Benjamin Franklin’s earliest known hoaxes was put into play after he was denied publications for his writings. This publisher was Franklin’s elder brother, making the story that of a very interesting sibling feud. Under the pen name Silence Dogood, supposedly a middle-aged widow, Franklin submitted a humorous letter to the editor. He was so successful in with his letters that several marriage proposals were sent to Dogood. After unveiling the hoax, his elder brother was less than amused, but this was only the beginning of Franklin’s practical jokes.
 
