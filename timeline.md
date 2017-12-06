@@ -13,7 +13,7 @@ title: Timeline
 <ul>
   <li>350 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles.</li>
+    <li><a href="https://www.heritagedaily.com/2013/11/ancient-greeks-carved-out-catch-in-projectiles/100226">Ancient           Greeks</a></li>
   </ul>
   <li>400 A.D.</li>
   <ul>
@@ -39,26 +39,25 @@ title: Timeline
   <ul>
     <li><a href="https://www.irishtimes.com/news/offbeat/creamofjokes-11-jokes-that-were-funny-in-the-1800s-1.2575356">Cream     of Jokes</a>, a weekly competition run in <i>The Irish Times</i> in the late 19th century that awarded prize money to       the writer of the best gag.</li>
   </ul>
-  <li>350 A.D.</li>
+  <li>1936 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href=" https://www.youtube.com/watch?v=HPSK4zZtzLI"></a>Charlie Chaplin</li>
   </ul>
-  <li>350 A.D.</li>
+  <li>1945 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li>Kilroy</li>
   </ul>
-  <li>350 A.D.</li>
+  <li>1975 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="https://www.youtube.com/watch?v=886hNDgwfMk">Monty Python and the Holy Grail</a></li>
   </ul>
-  <li>350 A.D.</li>
+  <li>November 25, 2008 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="https://www.youtube.com/watch?v=NL6CDFn2i3I ">Badger, Badger, Badger</a>, the predecessor viral video of       Vine.</li>
   </ul>
-  <li>350 A.D.</li>
+  <li>February 10, 2013 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
-  </ul>
+    <li><a href=" https://www.youtube.com/watch?v=4hpEnLtqUDg ">Harlem Shake</a></li>  </ul>
 </ul>
 
 
