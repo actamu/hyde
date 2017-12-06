@@ -67,3 +67,9 @@ title: Funnies
 <a href="https://www.youtube.com/watch?v=dMH0bHeiRNg"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="evolutionofdance"></a>
 > This video immediately went viral when it was first posted. Scientists do not fully understand why, but people get a kick out of watching others dance.
 
+## Forum Revelation #2: Tumblr Spiral
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/tumblr-mess-sparta.jpg" height="400" width="275" ></a>
+> This tumblr post is the perfect example of someone trying to make a valid statemnt and the Internet community bonding together as the spiral of comments continue to evolve to ridiculousness with everyday remarks to modern day quotes.
+
+
+
