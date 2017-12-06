@@ -61,3 +61,9 @@ Churchill’s sharp tongue and indomitable spirit greatly contributed to a legac
   <li><a href="http://www.bbcamerica.com/anglophenia/2015/04/50-churchill-quotes"><code class="highlighter-rouge">Churchill   Quotes</code></a></li>
   <li><a href="https://en.wikipedia.org/wiki/Winston_Churchill"><code class="highlighter-rouge">Wikipedia</code></a></li>
 </ul>
+
+## Zack King: Social Media Creator
+<a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/zach_king.jpg" height="275" width="400"></a>
+
+Zach King is an American filmmaker, mostly known for his instagram account: [@inspire.vids](https://www.instagram.com/inspire.vids/). He, of course, possesses has his own personal account ([@zachking](https://www.instagram.com/zachking/), but the main theme for each of his accounts, whether it be on Instagram or another platform, is to bring smiles to whoever watches his content. He achieves this goal by portraying humor through storytelling, which is a form of humor that has been used since the first person able to speak made a joke.
+
