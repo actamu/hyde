@@ -53,11 +53,12 @@ title: Timeline
   </ul>
   <li>November 25, 2008 A.D.</li>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=NL6CDFn2i3I ">Badger, Badger, Badger</a>, the predecessor viral video of       Vine.</li>
+    <li><a href="https://www.youtube.com/watch?v=NL6CDFn2i3I">Badger, Badger, Badger</a>, the predecessor viral video of         Vine.</li>
   </ul>
   <li>February 10, 2013 A.D.</li>
   <ul>
-    <li><a href=" https://www.youtube.com/watch?v=4hpEnLtqUDg ">Harlem Shake</a></li>  </ul>
+    <li><a href="https://www.youtube.com/watch?v=4hpEnLtqUDg">Harlem Shake</a></li>  
+  </ul>
 </ul>
 
 
