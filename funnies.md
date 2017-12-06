@@ -69,7 +69,7 @@ title: Funnies
 
 ## Forum Revelation #2: Tumblr Spiral
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/tumblr-mess-sparta.jpg" height="500" width="400" ></a>
-> This tumblr post is the perfect example of someone trying to make a valid statemnt and the Internet community bonding together as the spiral of comments continue to evolve to ridiculousness with everyday remarks to modern day quotes.
+> This tumblr post is the perfect example of someone trying to make a valid statement and the Internet community bonding together as the spiral of comments continue to evolve to ridiculousness with everyday remarks to modern day quotes.
 
 
 
