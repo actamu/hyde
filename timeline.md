@@ -7,6 +7,62 @@ title: Timeline
   Hey there! This page will exhibit the evolution of different types of humor over the past centuries, decades, and years. For the purposes of the mockup, we are going to leave the help links at the bottom of the page as sources to continue working on the project. The final product of this page will definitely not be including the bottom section of sources and only display the timeline created on Storyline. The timeline will display the different years as an interactive timetable so that when the reader hovers their cursor over the year, a picture and description will pop-up.
 </p>
 
+## Example Timeline
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/example_timeline.png" height="275" width="400" ></a>
+
+<ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>400 A.D.</li>
+  <ul>
+    <li>[Philogelos (The Laughter Lover)](http://www.stoa.org/diotima/anthology/quinn_jokes.shtml) is a collection of some       265 jokes, likely made in the fourth or fifth century CE.</li>
+  </ul>
+  <li>400 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+  <li>350 A.D.</li>
+  <ul>
+    <li>Ancient Greeks carving out projectiles</li>
+  </ul>
+</ul>
+
+
+## Jekyll Info
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
