@@ -31,13 +31,13 @@ title: Timeline
   <ul>
     <li><a href="http://mentalfloss.com/article/62668/6-ben-franklins-greatest-hoaxes-and-pranks">Benjamin Franklin</a>         Hoaxes and Pranks</li>
   </ul>
-  <li>1800s</li>
+  <li>1800s A.D.</li>
   <ul>
     <li><a href="https://www.npr.org/sections/npr-history-dept/2015/11/10/455415340/6-jokes-from-19th-century-america">19th     Century Jokes</a></li>
   </ul>
-  <li>350 A.D.</li>
+  <li>May 28th, 1892 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="https://www.irishtimes.com/news/offbeat/creamofjokes-11-jokes-that-were-funny-in-the-1800s-1.2575356">Cream     of Jokes</a>, a weekly competition run in <i>The Irish Times</i> in the late 19th century that awarded prize money to       the writer of the best gag.</li>
   </ul>
   <li>350 A.D.</li>
   <ul>
