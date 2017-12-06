@@ -21,12 +21,10 @@ Originally known to the United Kingdom as "Mr Chad", the cartoon would be accomp
 Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popeye. This is an almost century old meme that once had the power to baffle world leaders and bring U.S. soldiers together. Next time someone complains about the emerging of such media, let them in on the history of this little guy.
 
 ### Sources:
-<li>
-  <a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code>
-</li>
-<li>
-  <a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code class="highlighter-rouge">Cracked</code>
-</li>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code></a></li>
+  <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code               class="highlighter-rouge">Cracked</code></a></li>
+</ul>
 
 ## Kilroy, an Early Meme?
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/kilroy.jpg" height="275" width="400" ></a>
@@ -39,8 +37,8 @@ Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popey
 
 ### Sources:
 <ul>
-  <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code></li>
-  <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code class="highlighter-rouge">Cracked</code></li>
+  <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code></a></li>
+  <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code               class="highlighter-rouge">Cracked</code></a></li>
 </ul>
   
 ## Winston Churchill: Unlikely One-Liner King
@@ -64,6 +62,6 @@ Churchill’s sharp tongue and indomitable spirit greatly contributed to a legac
 
 ### Sources & More Churchill Quotes:
 <ul>
-  <li><a href="http://www.bbcamerica.com/anglophenia/2015/04/50-churchill-quotes"><code class="highlighter-rouge">Churchill   Quotes</code></li>
-  <li><a href="https://en.wikipedia.org/wiki/Winston_Churchill"><code class="highlighter-rouge">Wikipedia</code></li>
+  <li><a href="http://www.bbcamerica.com/anglophenia/2015/04/50-churchill-quotes"><code class="highlighter-rouge">Churchill   Quotes</code></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Winston_Churchill"><code class="highlighter-rouge">Wikipedia</code></a></li>
 </ul>
