@@ -77,4 +77,4 @@ title: Funnies
 
 ## Meme #5: Talking to "You-Know-Who"
 <a href="https://www.tumblr.com/search/jaiden-animations"><img src="https://actamu.github.io/laughing-aggies/public/images/jaidenanimations.png" height="425" width="400" ></a>
-> This freeze pic from one of [Jaiden Animations'] (https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA) YouTube videos is being used by the creator herself on her Tumblr account as a meme to explain how one, specifically her, would talk to her crush, which is portrayed in a comical manner.
+> This freeze pic from one of [Jaiden Animations'](https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA) YouTube videos is being used by the creator herself on her Tumblr account as a meme to explain how one, specifically her, would talk to her crush, which is portrayed in a comical manner.
