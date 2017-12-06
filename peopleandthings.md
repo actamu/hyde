@@ -11,6 +11,13 @@ title: People & Things
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Aristophanes.jpg" height="400" width="275" ></a>
 > Greek comic dramatist (450 B.C. - 388 B.C.): [Aristophanes Quotes](http://www.notable-quotes.com/a/aristophanes_quotes_ii.html).
 
+## Benjamin Franklin
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ben_frank.jpg" height="400" width="275" ></a>
+
+Ever fond of pseudonyms, one of Benjamin Franklin’s earliest known hoaxes was put into play after he was denied publications for his writings. This publisher was Franklin’s elder brother, making the story that of a very interesting sibling feud. Under the pen name Silence Dogood, supposedly a middle-aged widow, Franklin submitted a humorous letter to the editor. He was so successful in with his letters that several marriage proposals were sent to Dogood. After unveiling the hoax, his elder brother was less than amused, but this was only the beginning of Franklin’s practical jokes.
+
+Many of Franklin’s writings over the years were intended as rhetoric. However, Ben felt that one of the most effective methods to gain a larger audience was through sensationalism and humour. He wrote “The Speech of Miss Polly Baker,” a fictional and humorous piece with roots from actual events that combated a double standard for sexism at court. To win the sympathies of British citizens during the Revolutionary war, he published many wild stories including one letter that claimed the British recruited Native Americans to scalp colonists. This particular hoax wasn’t found out for another 70 years. Another of his works challenging societal issues included The Federal Gazette which combatted slavery by using anti-abolitionist theology against them. There are many who believe that Franklin’s efforts greatly impacted the abolishment of slavery long after his death. These stories were sensational for their bizarre, humorous, fictional accounts, yet each had a strong impact on public opinion, and our society now is heavily shaped by the arguments these rhetoric represent. This Father of Satires demonstrated that writings as strange as those found in the Onion today, actually use humour to effectively shape their audience’s perceptions.
+
 ## Kilroy, an Early Meme?
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/kilroy.jpg" height="275" width="400" ></a>
 
