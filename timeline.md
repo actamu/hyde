@@ -17,7 +17,7 @@ title: Timeline
   </ul>
   <li>400 A.D.</li>
   <ul>
-    <li>[Philogelos (The Laughter Lover)](http://www.stoa.org/diotima/anthology/quinn_jokes.shtml) is a collection of some       265 jokes, likely made in the fourth or fifth century CE.</li>
+    <li><a href="http://www.stoa.org/diotima/anthology/quinn_jokes.shtml">Philogelos (The Laughter Lover)</a> is a collection of some 265 jokes, likely made in the fourth or fifth century CE.</li>
   </ul>
   <li>400 A.D.</li>
   <ul>
