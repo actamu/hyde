@@ -26,22 +26,8 @@ Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popey
   <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code               class="highlighter-rouge">Cracked</code></a></li>
 </ul>
 
-## Kilroy, an Early Meme?
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/kilroy.jpg" height="275" width="400" ></a>
-
-Kilroy, a cartoon of a man looking over a wall grew in popularity among American soldiers during World War II and was inscribed inside helmets, prison walls, and restrooms stalls. This figure grew beyond a simple humorous and recognizable meme for the soldiers. It is rumored to have Hitler was convinced that Kilroy was the codename of a spy. Joseph Stalin was flabbergasted himself we he came across Kilroy graffiti in the VIP bathroom at the Potsdam Conference in 1945. 
-
-Originally known to the United Kingdom as "Mr Chad", the cartoon would be accompanied by the slogan "Wot, no sugar", or another phrase influenced by a rations shortage. He often appeared with a single curling hair that resembled a question mark and with crosses in his eyes. The earliest known doodle in street art is drawn in chalk on a wall, dated May 13th, 1937 in Fort Knox, Kentucky.
-
-Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popeye. This is an almost century old meme that once had the power to baffle world leaders and bring U.S. soldiers together. Next time someone complains about the emerging of such media, let them in on the history of this little guy.
-
-### Sources:
-<ul>
-  <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code></a></li>
-  <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code               class="highlighter-rouge">Cracked</code></a></li>
-</ul>
-  
 ## Winston Churchill: Unlikely One-Liner King
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/winston-churchill.jpg" height="275" width="400" ></a>
 
 We’ve all known one of those rare individuals who have an uncanny wit.One of the most well known and often quoted was WWII prime minister Winston Churchill. Though Churchill was a gifted statesman with an extensive education, he reached much greater heights. He was an author, military officer, and spokesman. His inspirational speeches as moving as his humor was clever. Many today unwittingly reference him or are unaware they have likely heard many of his remarks before.
 
