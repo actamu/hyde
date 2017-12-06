@@ -49,7 +49,7 @@ Many of his more recognizable quotes are clever, concise, and somewhat dry.
 <ul>
   <li>"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."</li>
   <li>"History is written by the victors."</li>
-
+</ul>
 It is also easy to imagine Churchill as a contender for a reality TV show with his quick quips:
 <ul>
   <li>Lady Astor: "Winston, if I were your wife I'd put poison in your coffee."</li>
