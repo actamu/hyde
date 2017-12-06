@@ -22,7 +22,7 @@ Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popey
 
 ### Sources:
 <li>
-  <code class="highlighter-rouge">Wikipedia</code>
+  <code class="highlighter-rouge">Wikipedia</code><a href="https://en.wikipedia.org/wiki/Kilroy_was_here">
 </li>
 <li>
   <code class="highlighter-rouge">Cracked</code>
