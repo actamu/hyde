@@ -12,5 +12,5 @@ A number of comedians known today are world-renown for their stand-up abilities 
 
 ### Sources:
 <ul>
-  <li><a href="http://www.rollingstone.com/culture/lists/50-best-stand-up-comics-of-all-time-w464199"><code                     class="highlighter-rouge">Rolling Stone “50 Best Stand-Up Comics of All Time”</code></a></li>
+  <li><a href="http://www.rollingstone.com/culture/lists/50-best-stand-up-comics-of-all-time-w464199"><code                     class="highlighter-rouge"><i>Rolling Stone</i> “50 Best Stand-Up Comics of All Time”</code></a></li>
 </ul>
