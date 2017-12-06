@@ -13,27 +13,27 @@ title: Timeline
 <ul>
   <li>350 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li>Ancient Greeks carving out projectiles.</li>
   </ul>
   <li>400 A.D.</li>
   <ul>
-    <li><a href="http://www.stoa.org/diotima/anthology/quinn_jokes.shtml">Philogelos (The Laughter Lover)</a> is a collection of some 265 jokes, likely made in the fourth or fifth century CE.</li>
+    <li><a href="http://www.stoa.org/diotima/anthology/quinn_jokes.shtml">Philogelos (The Laughter Lover)</a> is a               collection of some 265 jokes, likely made in the fourth or fifth century CE.</li>
   </ul>
-  <li>400 A.D.</li>
+  <li>422 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="http://www.notable-quotes.com/a/aristophanes_quotes.html">Aristophanes</a></li>
   </ul>
-  <li>350 A.D.</li>
+  <li>1470 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="http://www.medievalists.net/2013/08/medieval-jokes/">Medieval Jokes</a></li>
   </ul>
-  <li>350 A.D.</li>
+  <li>1722 A.D.</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="http://mentalfloss.com/article/62668/6-ben-franklins-greatest-hoaxes-and-pranks">Benjamin Franklin</a>         Hoaxes and Pranks</li>
   </ul>
-  <li>350 A.D.</li>
+  <li>1800s</li>
   <ul>
-    <li>Ancient Greeks carving out projectiles</li>
+    <li><a href="https://www.npr.org/sections/npr-history-dept/2015/11/10/455415340/6-jokes-from-19th-century-america">19th     Century Jokes</a></li>
   </ul>
   <li>350 A.D.</li>
   <ul>
