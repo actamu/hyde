@@ -8,12 +8,12 @@ title: Funnies
 </p>
 
 ## Joke #1: 90s Gym Class
-<img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" >
-<p>* Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.</p>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
+> Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
 
 ## Types of Funnies
-<img src="https://actamu.github.io/laughing-aggies/public/images/Aplus.png" height="275" width="400" >
-<p>* Scott Adams is the writer and creator of Dilbert.  He has a formula for humor, which he calls the Six: [6 Dimensions of Humor According to Scott Adams - Endless Watts](http://endlesswatts.com/6-dimensions-of-humor-according-to-scott-adams/).</p>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Aplus.png" height="275" width="400" ></a>
+> Scott Adams is the writer and creator of Dilbert.  He has a formula for humor, which he calls the Six: [6 Dimensions of Humor According to Scott Adams - Endless Watts](http://endlesswatts.com/6-dimensions-of-humor-according-to-scott-adams/).
 
 ## Quote #1: Ghandi Funny
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="400" width="300" ></a>
