@@ -53,8 +53,7 @@ Many of his more recognizable quotes are clever, concise, and somewhat dry.
 It is also easy to imagine Churchill as a contender for a reality TV show with his quick quips:
 <ul>
   <li>Lady Astor: "Winston, if I were your wife I'd put poison in your coffee."</li>
-  <li>Winston Churchill: "Nancy, if I were your husband I'd drink it."</li>
-  
+    <li>Winston Churchill: "Nancy, if I were your husband I'd drink it."</li>
   <li>"A lady came up to me one day and said 'Sir! You are drunk', to which I replied 'I am drunk today madam, and tomorrow   I shall be sober but you will still be ugly."</li>
     <li>This was thought to have been inspired by lines from the 1934 film It’s a Gift. In the film, when told he was drunk,      one of the characters responded with “Yeah, and you’re crazy. But I’ll be sober tomorrow and you’ll be crazy the rest       of your life.”</li>
 </ul>
