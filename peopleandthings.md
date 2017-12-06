@@ -22,10 +22,10 @@ Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popey
 
 ### Sources:
 <li>
-  <code class="highlighter-rouge">Wikipedia</code><a href="https://en.wikipedia.org/wiki/Kilroy_was_here">
+  <a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code>
 </li>
 <li>
-  <code class="highlighter-rouge">Cracked</code>
+  <a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code class="highlighter-rouge">Cracked</code>
 </li>
 
 
