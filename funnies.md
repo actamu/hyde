@@ -9,7 +9,7 @@ title: Funnies
 
 ## Joke #1: 90s Gym Class
 <img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" >
-> Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
+<p>Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.</p>
 
 ## Types of Funnies
 ![Aplus](https://actamu.github.io/laughing-aggies/public/images/Aplus.png)
