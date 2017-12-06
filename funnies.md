@@ -71,5 +71,7 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/tumblr-mess-sparta.jpg" height="500" width="400" ></a>
 > This tumblr post is the perfect example of someone trying to make a valid statement and the Internet community bonding together as the spiral of comments continue to evolve to ridiculousness with everyday remarks to modern day quotes.
 
-
+## Comic #1: The Power of Shopping Carts
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
+> This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:
 
