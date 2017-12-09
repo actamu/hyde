@@ -17,4 +17,4 @@ title: Games
 
 ## List of Funniest Video Games to Play
 <a href="https://www.theguardian.com/technology/2017/sep/07/the-27-funniest-video-games-of-all-time-hitman-grand-theft-auto"><img src="https://actamu.github.io/laughing-aggies/public/images/goat-simulator.png" height="275" width="450" ></a>
-Games have a massive variety across different consoles. Though humor as a gaming genre may not come to mind, games can be an effective tool for conveying humor. [Click here](https://www.theguardian.com/technology/2017/sep/07/the-27-funniest-video-games-of-all-time-hitman-grand-theft-auto) to read the list of what's considered the 27 funniest video games as of 2017.
+> Games have a massive variety across different consoles. Though humor as a gaming genre may not come to mind, games can be an effective tool for conveying humor. [Click here](https://www.theguardian.com/technology/2017/sep/07/the-27-funniest-video-games-of-all-time-hitman-grand-theft-auto) to read the list of what's considered the 27 funniest video games as of 2017.
