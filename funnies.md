@@ -90,3 +90,7 @@ title: Funnies
 # Quote #5: <i>Elf</i> at Its Finest
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/elf-funny.jpg" height="400" width="350" ></a>
 > This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.
+
+## Joke #3: Texting Jokes
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/texting-joke.jpg" height="400" width="350" ></a>
+> Ah, the little "play-on-words" ploy, I see!
