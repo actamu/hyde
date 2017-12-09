@@ -14,3 +14,7 @@ title: Games
 ## Mad Libs
 <a href="http://www.madtakes.com/"><img src="https://actamu.github.io/laughing-aggies/public/images/madlibs.jpg" height="275" width="450" ></a>
 > Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud. The game is frequently played as a party game or as a pastime: [Mad Libs - The World's Greatest Word Game](http://www.madtakes.com/)
+
+## List of Funniest Video Games to Play
+<a href="https://www.theguardian.com/technology/2017/sep/07/the-27-funniest-video-games-of-all-time-hitman-grand-theft-auto"><img src="https://actamu.github.io/laughing-aggies/public/images/goat-simulator.png" height="275" width="450" ></a>
+Games have a massive variety across different consoles. Though humor as a gaming genre may not come to mind, games can be an effective tool for conveying humor. [Click here](https://www.theguardian.com/technology/2017/sep/07/the-27-funniest-video-games-of-all-time-hitman-grand-theft-auto) to read the list of what's considered the 27 funniest video games as of 2017.
