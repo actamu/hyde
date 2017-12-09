@@ -7,6 +7,23 @@ title: People & Things
   This tab will list different people, shows, movies, books, etc. who and what are known in history to be funny by the collaborative consensus of society. To make your search and learning experience easier, the page is ordered alphabetically.
 </p>
 
+## April Fool's Day
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/april-fools-day-mountain.jpg" height="275" width="400" ></a>
+
+April the first is a day long anticipated or long dreaded and has been for centuries. The original cause of this day’s practical jokes is unknown, but it was popularized in the 1700s and continues today. 
+
+One of the greatest pranks ever pulled on this occasion occurred at Sitka, Alaska in 1974. The mastermind, Porky, describes the stunt in an advertisement campaign; “On April Fool's Day, I hired a chopper and flew 70-year-old, kerosene-soaked tires on top of the dormant volcano, Mount Edgecumbe, that looms over Sitka. I set the tires on fire, and the billowing, black smoke created one hell of a commotion in Sitka. I dare you to top that April Fool's joke." After realizing that the apparent active volcano was a hoax, the community gave their wholehearted approval. This prank epitomizes the aims of April Fool’s in which we many still aspire to baffle in more innovative and extravagant ways. 
+
+Another of the greatest April Fools pranks was pulled by Taco Bell in 1996. This fast food company fooled many when it claimed to have purchased and renamed Philadelphia's Liberty Bell to the Taco Liberty Bell.
+
+This day alone shows a culmination of humor as it has the pranks and practices have evolved for centuries over many cultures.
+
+### Sources:
+<ul>
+  <li><a href="http://www.history.com/this-day-in-history/april-fools-tradition-popularized"><code class="highlighter-rouge">April Fool's Tradition</code></a></li>
+  <li><a href="http://hoaxes.org/af_database/permalink/the_eruption_of_mount_edgecumbe/"><code class="highlighter-rouge">Eruption of Mt. Edgecumbe</code></a></li>
+</ul>
+
 ## Aristophanes
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Aristophanes.jpg" height="400" width="275" ></a>
 > Greek comic dramatist (450 B.C. - 388 B.C.): [Aristophanes Quotes](http://www.notable-quotes.com/a/aristophanes_quotes_ii.html).
@@ -30,7 +47,7 @@ Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popey
 ### Sources:
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here"><code class="highlighter-rouge">Wikipedia</code></a></li>
-  <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code               class="highlighter-rouge">Cracked</code></a></li>
+  <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html"><code class="highlighter-rouge">Cracked</code></a></li>
 </ul>
 
 ## Robin Williams: 
