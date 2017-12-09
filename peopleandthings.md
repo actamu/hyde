@@ -70,6 +70,7 @@ Churchill’s sharp tongue and indomitable spirit greatly contributed to a legac
   <li><a href="http://www.bbcamerica.com/anglophenia/2015/04/50-churchill-quotes"><code class="highlighter-rouge">Churchill   Quotes</code></a></li>
   <li><a href="https://en.wikipedia.org/wiki/Winston_Churchill"><code class="highlighter-rouge">Wikipedia</code></a></li>
 </ul>
+Fun times.
 
 ## Zack King: Social Media Creator
 <a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/zach_king.jpg" height="275" width="450"></a>
