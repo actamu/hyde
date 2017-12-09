@@ -83,4 +83,8 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/everything-is-funny-quote.png" height="275" width="400" ></a>
 > This quote makes fun of situational humor which plays on the fact that as long as the joke is not occurring to you, of course it is going to be hilarious. Otherwise, it takes special people to see the humor beyond the joke that is being made at their expense.
 
+## Meme #6: Going to Work Vibes
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/going-to-work-meme.png" height="275" width="400" ></a>
+> I wonder how a kid would react if they had to go to work the next day. :open_mouth:
+
 
