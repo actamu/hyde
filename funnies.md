@@ -80,5 +80,5 @@ title: Funnies
 > This freeze pic from one of [Jaiden Animations'](https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA) YouTube videos is being used by the creator herself on her [Tumblr account](https://www.tumblr.com/search/jaiden-animations) as a meme to explain how one, specifically her, would talk to her crush, which is portrayed in a comical manner.
 
 ## Quote #4: Everything is Funny
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/everything-is-funny.png" height="275" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/everything-is-funny-quote.png" height="275" width="400" ></a>
 > This quote makes fun of situational humor which plays on the fact that as long as the joke is not occurring to you, of course it is going to be hilarious. Otherwise, it takes special people to see the humor beyond the joke that is being made at their expense.
