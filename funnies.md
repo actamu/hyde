@@ -94,3 +94,7 @@ title: Funnies
 ## Joke #3: Texting Jokes
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/texting-joke.jpg" height="400" width="350" ></a>
 > Ah, the little "play-on-words" ploy, I see!
+
+## Comic #2: First-Rate Organized Chaos
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/sarah-anderson-comic.jpg" height="550" width="350" ></a>
+> Any parent's nightmare for their children. :smile_cat:
