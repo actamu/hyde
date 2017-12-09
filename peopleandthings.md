@@ -34,7 +34,7 @@ Kilroy is now seen in popular works such as Charlie Brown, Doctor Who, and Popey
 </ul>
 
 ## Robin Williams: 
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/robin-williams.jpg" height="350" width="350" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/robin-williams.jpg" height="400" width="300" ></a>
 
 Comedic genius, Robin Williams, lived a vibrant life of many comic successes in the public eye. In fact, he is credited with driving San Francisco's comedy renaissance in the mid-1970s as he began his journey in show business. Accomplishments he acheived during his lifetime include being an American stand-up comedian and actor. He won numerous awards for his hard work and was coined by his fans and audiences for his improvisatoinal skills.
 
@@ -68,7 +68,7 @@ Churchill’s sharp tongue and indomitable spirit greatly contributed to a legac
 </ul>
 
 ## Zack King: Social Media Creator
-<a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/zach_king.jpg" height="275" width="400"></a>
+<a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/zach_king.jpg" height="275" width="450"></a>
 
 Zach King is an American filmmaker, mostly known for his instagram account: [@inspire.vids](https://www.instagram.com/inspire.vids/). He, of course, possesses has his own personal account ([@zachking](https://www.instagram.com/zachking/)), but the main theme for each of his accounts, whether it be on Instagram or another platform, is to bring smiles to whoever watches his content. He achieves this goal by portraying humor through storytelling, which is a form of humor that has been used since the first person able to speak made a joke.
 
