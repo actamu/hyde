@@ -11,4 +11,6 @@ title: Quizzes
 <a href="https://www.playbuzz.com/monikasymonds10/what-kind-of-humor-are-you"><img src="https://actamu.github.io/laughing-aggies/public/images/humor_quiz.png" height="300" width="450" ></a>
 > Ever wondered what kind of humor you have? Take this quiz to find out: [What Kind of Humor Do You Have?](https://www.playbuzz.com/monikasymonds10/what-kind-of-humor-are-you)
 
-
+## Funny Generic Quizzes Online
+<a href="https://www.playbuzz.com/Funny"><img src="https://actamu.github.io/laughing-aggies/public/images/quiz-time.png" height="300" width="450" ></a>
+> [Click this link](https://www.playbuzz.com/Funny) to find different types of quizzes [Playbuzz](https://www.playbuzz.com/) considers to be the generic humor of its audience and collective public. The website categorizes varying kinds of quizzes it has determined to be "funny".
