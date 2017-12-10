@@ -108,9 +108,9 @@ title: Funnies
 > Sometimes the best way to share your political opinion is through a cute and satirical cartoon. Calvin and Hobbes is a perfect example
 
 ## Meme #7: Savagry 101
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="400" width="300" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="325" width="300" ></a>
 > How to be a savage 101.
 
 ## Forum Revelation #3: Stupidity Leak
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="300" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="500" ></a>
 > Sometimes it's more fun to be sarcastic than to try and correct stupidity.
