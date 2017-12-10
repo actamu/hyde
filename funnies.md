@@ -111,9 +111,9 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="325" width="300" ></a>
 > How to be a savage 101.
 
-## Comic #4: First-Rate Organized Chaos
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/calvin-and-hobbes.jpg" height="600" width="400" ></a>
-> Sometimes the best way to share your political opinion is through a cute and satirical cartoon. Calvin and Hobbes is a perfect example
+## Comic #4: Sharing Political Opinions Through Comics
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/calvin-and-hobbes.jpg" height="575" width="400" ></a>
+> Sometimes the best way to share your political opinion is through a cute and satirical cartoon such as [Calvin and Hobbes](http://www.gocomics.com/calvinandhobbes).
 
 ## Forum Revelation #4: An Archaeologist's Epiphany
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/graverobbing-showerthoughts.jpg" height="300" width="450" ></a>
