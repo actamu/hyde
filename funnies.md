@@ -114,3 +114,7 @@ title: Funnies
 ## Forum Revelation #3: Stupidity Leak
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="475" ></a>
 > Sometimes it's more fun to be sarcastic than to try and correct stupidity.
+
+## Forum Revelation #4: Stupidity Leak
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/graverobbing-showerthoughts.jpg" height="300" width="450" ></a>
+> Thinking aloud can bring out the funniest revelations about jobs.
