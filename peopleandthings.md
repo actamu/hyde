@@ -44,7 +44,7 @@ Jane is a great example of how humor has evolved in modern culture with expectat
 
 ### Source:
 <ul>
-  <li><a href="http://home.assets.gocomics.com/news/between-the-panels/3853/meet-your-creator-jane-zei-of-the-pigeon-gazette">GoComics</code></a></li>
+  <li><a href="http://home.assets.gocomics.com/news/between-the-panels/3853/meet-your-creator-jane-zei-of-the-pigeon-gazette"><code class="highlighter-rouge">GoComics</code></a></li>
 </ul>
 
 ## Kilroy, an Early Meme?
