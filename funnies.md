@@ -112,5 +112,5 @@ title: Funnies
 > How to be a savage 101.
 
 ## Forum Revelation #3: Stupidity Leak
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="500" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="475" ></a>
 > Sometimes it's more fun to be sarcastic than to try and correct stupidity.
