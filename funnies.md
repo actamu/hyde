@@ -88,8 +88,8 @@ title: Funnies
 > This quote makes fun of situational humor which plays on the fact that as long as the joke is not occurring to you, of course it is going to be hilarious. Otherwise, it takes special people to see the humor beyond the joke that is being made at their expense.
 
 ## Comic #3: Mouse and Pig
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/mouse-and-pig.jpg" height="275" width="600" ></a>
-> Illustrates the power of interpretation.
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/mouse-and-pig.jpg" height="260" width="600" ></a>
+> An illustration of the power of interpretation.
 
 ## Forum Revelation #3: Stupidity Leak
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="475" ></a>
