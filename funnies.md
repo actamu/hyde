@@ -105,4 +105,12 @@ title: Funnies
 
 ## Comic #4: First-Rate Organized Chaos
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/calvin-and-hobbes.jpg" height="600" width="400" ></a>
-> Sometimes the best way to share your political opinion is through a cute and satirical cartoon.
+> Sometimes the best way to share your political opinion is through a cute and satirical cartoon. Calvin and Hobbes is a perfect example
+
+## Meme #7: Savagry 101
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="400" width="300" ></a>
+> How to be a savage 101.
+
+## Forum Revelation #3: Stupidity Leak
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="300" width="400" ></a>
+> Sometimes it's more fun to be sarcastic than to try and correct stupidity.
