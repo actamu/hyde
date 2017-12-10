@@ -49,7 +49,7 @@ Many of Franklin’s writings over the years were intended as rhetoric. However,
 ## Jane Zei of <i>The Pigeon Gazette</i>
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/jane-zei-pigeon-gazette.jpg" height="250" width="325" ></a>
 
-<i>The Pigeon Gazette</i> is a semi-autobiographical comic created by the cartoonist, Jane Zei. Jane is a young adult millennial who began her career in the comic world in 2015 due to her love for drawing and making people happy from her work. She focuses her comics mostly on self-deprecating humor because she feels happy at being able to make other people laugh at her own expense. She also enjoys incorporating quirky cultural references and laugh-at-life kind of humor into her her work depending on her mood and life experiences at the time.
+[<i>The Pigeon Gazette</i>](http://thepigeongazette.tumblr.com/) is a semi-autobiographical comic created by the cartoonist, Jane Zei. Jane is a young adult millennial who began her career in the comic world in 2015 due to her love for drawing and making people happy from her work. She focuses her comics mostly on self-deprecating humor because she feels happy at being able to make other people laugh at her own expense. She also enjoys incorporating quirky cultural references and laugh-at-life kind of humor into her her work depending on her mood and life experiences at the time.
 
 Jane is a great example of how humor has evolved in modern culture with expectations in today's society. While focusing on her own life experiences, she integrates daily news, what people expect of her in her demographic (i.e. age, gender, etc.), and more while putting a spin on her stories with some kind of punchline for humor.
 
