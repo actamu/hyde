@@ -23,7 +23,7 @@ gems:
 - jemoji
 
 # Custom vars
-version:          2.2.0
+# version:          2.2.0
 
 github:
   repo:           https://github.com/actamu/laughing-aggies/
