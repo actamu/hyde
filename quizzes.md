@@ -16,5 +16,5 @@ title: Quizzes
 > [Click this link](https://www.playbuzz.com/Funny) to find different types of quizzes [Playbuzz](https://www.playbuzz.com/) considers to be the generic humor of its audience and the collective online public. The website categorizes varying kinds of quizzes it has determined to be "funny".
 
 ## How Do You Use Humor?
-<a href="https://www.psychologytoday.com/articles/200607/how-do-you-use-humor"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs-and-partyhats.jpg" height="300" width="400" ></a>
+<a href="https://www.psychologytoday.com/articles/200607/how-do-you-use-humor"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs-and-partyhats.jpg" height="300" width="375" ></a>
 > [Click this link](https://www.psychologytoday.com/articles/200607/how-do-you-use-humor) to figure out how you utilize humor in your everyday life. Enjoy!
