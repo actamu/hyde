@@ -91,6 +91,10 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/mouse-and-pig.jpg" height="275" width="600" ></a>
 > Illustrates the power of interpretation.
 
+## Forum Revelation #3: Stupidity Leak
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="475" ></a>
+> Sometimes it's more fun to be sarcastic than to try and correct stupidity.
+
 ## Meme #6: Going to Work Vibes
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/going-to-work-meme.png" height="325" width="350" ></a>
 > I wonder how a kid would react if they had to go to work the next day. :open_mouth:
@@ -111,10 +115,6 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="325" width="300" ></a>
 > How to be a savage 101.
 
-## Forum Revelation #3: Stupidity Leak
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="475" ></a>
-> Sometimes it's more fun to be sarcastic than to try and correct stupidity.
-
-## Forum Revelation #4: Stupidity Leak
+## Forum Revelation #4: An Archaeologist's Epiphany
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/graverobbing-showerthoughts.jpg" height="300" width="450" ></a>
 > Thinking aloud can bring out the funniest revelations about jobs.
