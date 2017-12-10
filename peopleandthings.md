@@ -28,6 +28,17 @@ This day alone shows a culmination of humor as it has the pranks and practices h
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Aristophanes.jpg" height="400" width="275" ></a>
 > Greek comic dramatist (450 B.C. - 388 B.C.): [Aristophanes Quotes](http://www.notable-quotes.com/a/aristophanes_quotes_ii.html).
 
+## Banana Slip
+<a href="https://www.youtube.com/watch?v=YZRq3XxCZXo"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-peel-slip.jpg" height="275" width="400" ></a>
+
+The banana peel is infamous for its perceived ability to bring people to tears, be it in pain or laughter. However, the banana peel is not quite as slippery as we believe. When the banana first became a comedy gag, it was a symbol for the accumulating waste clogging up the streets of late 18th century United States. At this time, there was no one to clean up the trash, leaving the banana...
+
+### Sources:
+<ul>
+    <li><a href="http://mentalfloss.com/article/31135/how-did-slipping-banana-peel-become-comedy-staple"><code class="highlighter-rouge"><code class="highlighter-rouge">How Slipping on a Banana Peel Became a Comedy Staple</code></a></li>
+  <li><a href="https://www.youtube.com/watch?v=YZRq3XxCZXo"><code class="highlighter-rouge"><code class="highlighter-rouge">Mythbusters Banana Peel Episode</code></a></li>
+</ul>
+
 ## Benjamin Franklin
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ben_frank.jpg" height="275" width="425" ></a>
 
