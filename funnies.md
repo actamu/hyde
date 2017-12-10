@@ -55,6 +55,10 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/what_scares_me.jpg" height="275" width="400" ></a>
 > What scares you more? #HorrorVSTruth :ghost:
 
+## Comic #1: The Power of Shopping Carts
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
+> This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:
+
 ## Jokes Galore: The 100 Jokes That Shaped Modern Comedy
 <a href="http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs_playing_poker.jpg" height="275" width="400" ></a>
 > From the Marx Brothers to The Simpsons, Richard Pryor to Amy Schumer - 100 bits, sketches, and one-liners that changed humor forever: [The 100 Jokes That Shaped Modern Comedy](http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html)
@@ -67,13 +71,13 @@ title: Funnies
 <a href="https://www.youtube.com/watch?v=dMH0bHeiRNg"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="evolutionofdance"></a>
 > This video immediately went viral when it was first posted. Scientists do not fully understand why, but people get a kick out of watching others dance.
 
+## Comic #2: First-Rate Organized Chaos
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/sarah-anderson-comic.jpg" height="550" width="350" ></a>
+> Any parent's nightmare for their children. :smile_cat:
+
 ## Forum Revelation #2: Tumblr Spiral
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/tumblr-mess-sparta.jpg" height="500" width="400" ></a>
 > This tumblr post is the perfect example of someone trying to make a valid statement and the Internet community bonding together as the spiral of comments continue to evolve to ridiculousness with everyday remarks to modern day quotes.
-
-## Comic #1: The Power of Shopping Carts
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
-> This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:
 
 ## Meme #5: Talking to "You-Know-Who"
 <a href="https://www.tumblr.com/search/jaiden-animations"><img src="https://actamu.github.io/laughing-aggies/public/images/jaidenanimations.png" height="425" width="400" ></a>
@@ -82,6 +86,10 @@ title: Funnies
 ## Quote #4: Everything is Funny
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/everything-is-funny-quote.png" height="275" width="400" ></a>
 > This quote makes fun of situational humor which plays on the fact that as long as the joke is not occurring to you, of course it is going to be hilarious. Otherwise, it takes special people to see the humor beyond the joke that is being made at their expense.
+
+## Comic #3: Mouse and Pig
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/mouse-and-pig.jpg" height="300" width="550" ></a>
+> Illustrates the power of interpretation.
 
 ## Meme #6: Going to Work Vibes
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/going-to-work-meme.png" height="325" width="350" ></a>
@@ -95,6 +103,6 @@ title: Funnies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/texting-joke.jpg" height="400" width="350" ></a>
 > Ah, the little "play-on-words" ploy, I see!
 
-## Comic #2: First-Rate Organized Chaos
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/sarah-anderson-comic.jpg" height="550" width="350" ></a>
-> Any parent's nightmare for their children. :smile_cat:
+## Comic #4: First-Rate Organized Chaos
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/calvin-and-hobbes.jpg" height="550" width="350" ></a>
+> Sometimes the best way to share your political opinion is through a cute and satirical cartoon.
