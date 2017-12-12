@@ -321,7 +321,7 @@ div.tab button.active {
   <p>This video immediately went viral when it was first posted. Scientists do not fully understand why, but people get a kick out of watching others dance.</p>
   
   <h3>Video #4: "Chaplin Modern Times-Factory Scene (late afternoon)"</h3>
-  <a href="https://www.youtube.com/watch?v=HPSK4zZtzLI"><img src="https://actamu.github.io/laughing-aggies/public/images/charlie-chaplin.jpg" width="400" alt="charliechaplin"></a>
+  <a href="https://www.youtube.com/watch?v=HPSK4zZtzLI"><img src="https://actamu.github.io/laughing-aggies/public/images/charlie-chaplin.jpg" height="275" width="400" alt="charliechaplin"></a>
   <p>Charlie Chaplin rose to fame in the era of silent films as an English comic actor, filmmaker, and composer. This video shows his honed skills of bringing smiles to his audiences by performing comedic actions.</p> 
 </div>
 
