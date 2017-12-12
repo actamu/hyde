@@ -52,7 +52,7 @@ div.tab button.active {
 </head>
 <body>
 
-<p>Click on the buttons inside the tabbed menu to see examples of different types of funnies:</p>
+<p>Click on the buttons inside the tabbed menu below to see examples of different types of funnies:</p>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'All')">All</button>
