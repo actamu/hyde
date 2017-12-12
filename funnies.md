@@ -64,6 +64,7 @@ div.tab button.active {
   <button class="tablinks" onclick="openCity(event, 'Videos')">Videos</button>
 </div>
 
+/* All Tab */
 <div id="All" class="tabcontent">
   <h3>Joke #1: 90s Gym Class</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
@@ -174,10 +175,11 @@ div.tab button.active {
   <p>Thinking aloud can bring out the funniest revelations about jobs.</p>
   
   <h3>Comic #5: Printing in the Old Times</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="275" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="300" ></a>
   <p>A modern problem being compared with an older version of the problem.</p>
 </div>
 
+/* Comics Tab */
 <div id="Comics" class="tabcontent">
   <h3>Comic #1: The Power of Shopping Carts</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
@@ -196,10 +198,11 @@ div.tab button.active {
   <p>Sometimes the best way to share your political opinion is through a cute and satirical cartoon such as <a href="http://www.gocomics.com/calvinandhobbes">Calvin and Hobbes</a>.</p>
   
   <h3>Comic #5: Printing in the Old Times</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="275" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="300" ></a>
   <p>A modern problem being compared with an older version of the problem.</p>
 </div>
 
+/* Forums Tab */
 <div id="Forums" class="tabcontent">
   <h3>Forum Revelation #1: The Power of Shopping Carts</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="400" width="275" ></a>
@@ -218,6 +221,7 @@ div.tab button.active {
   <p>Thinking aloud can bring out the funniest revelations about jobs.</p>
 </div>
 
+/* Jokes Tab */
 <div id="Jokes" class="tabcontent">
   <h3>Joke #1: 90s Gym Class</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
@@ -236,6 +240,7 @@ div.tab button.active {
   <p>Ah, the little "play-on-words" ploy, I see!</p>
 </div>
 
+/* Memes Tab */
 <div id="Memes" class="tabcontent">
   <h3>Meme #1: Roman Love Interuptions</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="400" width="275" ></a>
@@ -266,6 +271,7 @@ div.tab button.active {
   <p>How to be a savage 101.</p>
 </div>
 
+/* Quotes Tab */
 <div id="Quotes" class="tabcontent">
   <h3>Quote #1: Ghandi Funny</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="380" width="300" ></a>
@@ -288,6 +294,7 @@ div.tab button.active {
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
 </div>
 
+/* Videos Tab */
 <div id="Videos" class="tabcontent">
   <h3>Video #1: "Honey Badger Don't Care (original narration by Randall)</h3>
   <a href="https://www.youtube.com/watch?v=4r7wHMg5Yjg"><img src="https://actamu.github.io/laughing-aggies/public/images/honeybadger.png" width="400" alt="honeybadgerdontcare"></a>
