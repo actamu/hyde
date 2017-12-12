@@ -173,6 +173,20 @@ div.tab button.active {
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
 </div>
 
+<div id="Videos" class="tabcontent">
+  <h3>Video #1: "Honey Badger Don't Care (original narration by Randall)</h3>
+  <a href="https://www.youtube.com/watch?v=4r7wHMg5Yjg"><img src="https://actamu.github.io/laughing-aggies/public/images/honeybadger.png" width="400" alt="honeybadgerdontcare"></a>
+  <p>This video displays some of the original comedy videos uploaded to YouTube: voice overs. This particular video went viral due to someone putting their own spin to how the honey badger lives its everyday life without holding back on its language.</p>
+  
+  <h3>Video #2: "asdfmovie10"</h3>
+ <a href="https://www.youtube.com/watch?v=foFKXS6Nyho"><img src="https://actamu.github.io/laughing-aggies/public/images/asdfmovie10.jpg" width="400" alt="asdfmovie10"></a>
+  <p>TomSka is a viral YouTube creator who loves to produce random videos including erratic, corny, and dark humor that include both new content and content that references to his past work.</p>
+  
+  <h3>Video #3: "Evolution of Dance"</h3>
+  <a href="https://www.youtube.com/watch?v=dMH0bHeiRNg"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="evolutionofdance"></a>
+  <p>This video immediately went viral when it was first posted. Scientists do not fully understand why, but people get a kick out of watching others dance.</p>
+</div>
+
 <script>
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
