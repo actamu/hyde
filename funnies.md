@@ -181,6 +181,10 @@ div.tab button.active {
   <h3>Joke #4: Taylor Swift Punchline</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/taylorswift-and-vampire.jpg" height="350" width="350" ></a>
   <p>Mixing a pop culture reference with a globally known fantasy figure.</p> 
+  
+  <h3>Video #4: "Chaplin Modern Times-Factory Scene (late afternoon)"</h3>
+  <a href="https://www.youtube.com/watch?v=HPSK4zZtzLI"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="charliechaplin"></a>
+  <p>Charlie Chaplin rose to fame in the era of silent films as an English comic actor, filmmaker, and composer. This video shows his honed skills of bringing smiles to his audiences by performing comedic actions.</p> 
 </div>
 
 <!-- Comics Tab -->
@@ -315,6 +319,10 @@ div.tab button.active {
   <h3>Video #3: "Evolution of Dance"</h3>
   <a href="https://www.youtube.com/watch?v=dMH0bHeiRNg"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="evolutionofdance"></a>
   <p>This video immediately went viral when it was first posted. Scientists do not fully understand why, but people get a kick out of watching others dance.</p>
+  
+  <h3>Video #4: "Chaplin Modern Times-Factory Scene (late afternoon)"</h3>
+  <a href="https://www.youtube.com/watch?v=HPSK4zZtzLI"><img src="https://actamu.github.io/laughing-aggies/public/images/evolution-of-dance.jpg" width="400" alt="charliechaplin"></a>
+  <p>Charlie Chaplin rose to fame in the era of silent films as an English comic actor, filmmaker, and composer. This video shows his honed skills of bringing smiles to his audiences by performing comedic actions.</p> 
 </div>
 
 <script>
