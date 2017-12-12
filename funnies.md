@@ -185,6 +185,10 @@ div.tab button.active {
   <h3>Video #4: "Chaplin Modern Times-Factory Scene (late afternoon)"</h3>
   <a href="https://www.youtube.com/watch?v=HPSK4zZtzLI"><img src="https://actamu.github.io/laughing-aggies/public/images/charlie-chaplin.jpg" height="275" width="400" alt="charliechaplin"></a>
   <p>Charlie Chaplin rose to fame in the era of silent films as an English comic actor, filmmaker, and composer. This video shows his honed skills of bringing smiles to his audiences by performing comedic actions.</p> 
+  
+  <h3>Forum Revelation #5: Is This Reality?</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wearesims.jpg" height="400" width="300" ></a>
+  <p>When a simple statement of observation turns into an existential question about reality.</p>
 </div>
 
 <!-- Comics Tab -->
@@ -227,6 +231,10 @@ div.tab button.active {
   <h3>Forum Revelation #4: An Archaeologist's Epiphany</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/graverobbing-showerthoughts.jpg" height="300" width="450" ></a>
   <p>Thinking aloud can bring out the funniest revelations about jobs.</p>
+  
+  <h3>Forum Revelation #5: Is This Reality?</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wearesims.jpg" height="400" width="300" ></a>
+  <p>When a simple statement of observation turns into an existential question about reality.</p>
 </div>
 
 <!-- Jokes Tab -->
