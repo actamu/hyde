@@ -7,6 +7,97 @@ title: Funnies
   This tab will comprise of all kinds of visual and verbal humor: comics, memes, videos, jokes, etc.
 </p>
 
+<html>
+<head>
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+</style>
+</head>
+<body>
+
+<p>Click on the buttons inside the tabbed menu:</p>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'All')">All</button>
+  <button class="tablinks" onclick="openCity(event, 'Comics')">Comics</button>
+  <button class="tablinks" onclick="openCity(event, 'Forums')">Forums</button>
+  <button class="tablinks" onclick="openCity(event, 'Jokes')">Jokes</button>
+  <button class="tablinks" onclick="openCity(event, 'Memes')">Memes</button>
+  <button class="tablinks" onclick="openCity(event, 'Quotes')">Quotes</button>
+  <button class="tablinks" onclick="openCity(event, 'Videos')">Videos</button>
+</div>
+
+<div id="All" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p> 
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script> 
+</body>
+</html>
+
+
 ## Joke #1: 90s Gym Class
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
 > Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
