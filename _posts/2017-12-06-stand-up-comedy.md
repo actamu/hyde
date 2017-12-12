@@ -10,7 +10,7 @@ Some background about stand-up comedy is that it originates from Greek roots in 
 
 Today, the material comedians write, direct, and perform in their monologues are picked through trial-and-error because a person does not just wakeup hilarious one day. No. Comedians work hard to figure out what different kinds of audiences find funny and choose their material this way. In fact, being a comedian is kind of like being a sleuth on the case to figure out what kind of humor speaks to the audience more than others, whether the material is proven to be funny through experience or it is new material waiting to be tested.
 
-A number of comedians known today are world-renown for their stand-up abilities due their strong skills of impromptu jokes and witty statements when they interact with the crowd. A handful of these noble people who provide comedy gold live verbally include Robin Williams, Jerry Seinfeld, Kevin Hart, Iliza Shlesinger, Jay Leno, Amy Schumer, and more!
+A number of comedians known today are world-renown for their stand-up abilities due their strong skills of impromptu jokes and witty statements when they interact with the crowd. A handful of these noble people who provide comedy gold live include Robin Williams, Jerry Seinfeld, Kevin Hart, Iliza Shlesinger, Jay Leno, Amy Schumer, and more!
 
 ### Sources:
 <ul>
