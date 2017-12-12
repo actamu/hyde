@@ -64,7 +64,7 @@ div.tab button.active {
   <button class="tablinks" onclick="openCity(event, 'Videos')">Videos</button>
 </div>
 
-/* All Tab */
+<!-- All Tab -->
 <div id="All" class="tabcontent">
   <h3>Joke #1: 90s Gym Class</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
@@ -179,7 +179,7 @@ div.tab button.active {
   <p>A modern problem being compared with an older version of the problem.</p>
 </div>
 
-/* Comics Tab */
+<!-- Comics Tab -->
 <div id="Comics" class="tabcontent">
   <h3>Comic #1: The Power of Shopping Carts</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
@@ -202,7 +202,7 @@ div.tab button.active {
   <p>A modern problem being compared with an older version of the problem.</p>
 </div>
 
-/* Forums Tab */
+<!-- Forums Tab -->
 <div id="Forums" class="tabcontent">
   <h3>Forum Revelation #1: The Power of Shopping Carts</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="400" width="275" ></a>
@@ -221,7 +221,7 @@ div.tab button.active {
   <p>Thinking aloud can bring out the funniest revelations about jobs.</p>
 </div>
 
-/* Jokes Tab */
+<!-- Jokes Tab -->
 <div id="Jokes" class="tabcontent">
   <h3>Joke #1: 90s Gym Class</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
@@ -240,7 +240,7 @@ div.tab button.active {
   <p>Ah, the little "play-on-words" ploy, I see!</p>
 </div>
 
-/* Memes Tab */
+<!-- Memes Tab -->
 <div id="Memes" class="tabcontent">
   <h3>Meme #1: Roman Love Interuptions</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="400" width="275" ></a>
@@ -271,7 +271,7 @@ div.tab button.active {
   <p>How to be a savage 101.</p>
 </div>
 
-/* Quotes Tab */
+<!-- Quotes Tab -->
 <div id="Quotes" class="tabcontent">
   <h3>Quote #1: Ghandi Funny</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="380" width="300" ></a>
@@ -294,7 +294,7 @@ div.tab button.active {
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
 </div>
 
-/* Videos Tab */
+<!-- Videos Tab -->
 <div id="Videos" class="tabcontent">
   <h3>Video #1: "Honey Badger Don't Care (original narration by Randall)</h3>
   <a href="https://www.youtube.com/watch?v=4r7wHMg5Yjg"><img src="https://actamu.github.io/laughing-aggies/public/images/honeybadger.png" width="400" alt="honeybadgerdontcare"></a>
