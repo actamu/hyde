@@ -21,5 +21,5 @@ For his concept to work, the general rule stands that at least two of his six di
 ### Sources:
 <ul>
   <li><a href="http://endlesswatts.com/6-dimensions-of-humor-according-to-scott-adams/"><code class="highlighter-rouge">6 Dimensions of Humor According to Scott Adams - Endless Watts</code></a></li>
-  <li><a href="http://blog.dilbert.com/2015/03/26/humor-writing-tutorial/"><code class="highlighter-rouge">Humor Writing Tutorial”</code></a></li>
+  <li><a href="http://blog.dilbert.com/2015/03/26/humor-writing-tutorial/"><code class="highlighter-rouge">Humor Writing Tutorial</code></a></li>
 </ul>
