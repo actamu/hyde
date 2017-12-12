@@ -70,8 +70,9 @@ div.tab button.active {
 </div>
 
 <div id="Comics" class="tabcontent">
-  <h3>Comics</h3>
-  <p>Paris is the capital of France.</p> 
+  <h3>Comic #1: The Power of Shopping Carts</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
+  <p>This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:</p>
 </div>
 
 <div id="Forums" class="tabcontent">
