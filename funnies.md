@@ -52,7 +52,7 @@ div.tab button.active {
 </head>
 <body>
 
-<p>Click on the buttons inside the tabbed menu:</p>
+<p>Click on the buttons inside the tabbed menu to see examples of different types of funnies:</p>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'All')">All</button>
@@ -172,6 +172,10 @@ div.tab button.active {
   <h3>Forum Revelation #4: An Archaeologist's Epiphany</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/graverobbing-showerthoughts.jpg" height="300" width="450" ></a>
   <p>Thinking aloud can bring out the funniest revelations about jobs.</p>
+  
+  <h3>Comic #5: Printing in the Old Times</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="275" ></a>
+  <p>A modern problem being compared with an older version of the problem.</p>
 </div>
 
 <div id="Comics" class="tabcontent">
@@ -190,6 +194,10 @@ div.tab button.active {
   <h3>Comic #4: Sharing Political Opinions Through Comics</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/calvin-and-hobbes.jpg" height="575" width="400" ></a>
   <p>Sometimes the best way to share your political opinion is through a cute and satirical cartoon such as <a href="http://www.gocomics.com/calvinandhobbes">Calvin and Hobbes</a>.</p>
+  
+  <h3>Comic #5: Printing in the Old Times</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="275" ></a>
+  <p>A modern problem being compared with an older version of the problem.</p>
 </div>
 
 <div id="Forums" class="tabcontent">
