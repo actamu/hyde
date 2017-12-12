@@ -7,6 +7,27 @@ title: Funnies
   This tab will comprise of all kinds of visual and verbal humor: comics, memes, videos, jokes, etc.
 </p>
 
+<ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#profile" data-toggle="tab">All</a></li>
+    <li><a href="#about" data-toggle="tab">Comics</a></li>
+    <li><a href="#match" data-toggle="tab">Memes</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="all">
+    <h2>All</h2>
+<p>Praesent sit amet fermentum leo....</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="Comics">
+    <h2>Comics</h2>
+    <p>Lorem ipsum ...</p></div>
+
+<div role="tabpanel" class="tab-pane" id="Memes">
+    <h2>Memes</h2>
+    <p>Vel vehicula ....</p>
+</div>
+</div>
+
 ## Joke #1: 90s Gym Class
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
 > Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.
