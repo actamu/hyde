@@ -112,6 +112,18 @@ Churchill’s sharp tongue and indomitable spirit greatly contributed to a legac
   <li><a href="https://en.wikipedia.org/wiki/Winston_Churchill"><code class="highlighter-rouge">Wikipedia</code></a></li>
 </ul>
 
+## World War II Hoax: Carrots & Eyesight
+<a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/carrots-nightsight.jpg" height="400" width="275"></a>
+
+Even into the 21st century, parents are still telling their children to eat carrots to help improve their eyesight. Unfortunately, carrots due not have quite the effect we would like to believe. The myth began as WWII propaganda. The UK had a new radar technology that helped their airforce locate enemy bombers. To keep this secret, they informed the press that a diet rich in carrots improved their pilot’s eyesight. Although there is little evidence the German military actually believed the rumor, the belief that carrots improve eyesight grew in the general public and the hoax lives on today.
+
+### Sources:
+<ul>
+  <li><a href="https://www.smithsonianmag.com/arts-culture/a-wwii-propaganda-campaign-popularized-the-myth-that-carrots-help-you-see-in-the-dark-28812484/"><code class="highlighter-rouge">WWII Propaganda Campaign</code></a></li>
+  <li><a href="https://www.snopes.com/food/ingredient/carrots.asp"><code class="highlighter-rouge">Snopes</code></a></li>
+    <li><a href="https://www.livescience.com/38861-carrots-eyesight-myth-origins.html"><code class="highlighter-rouge">Livescience</code></a></li>
+</ul>
+
 ## Zack King: Social Media Creator
 <a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/zach_king.jpg" height="275" width="450"></a>
 
