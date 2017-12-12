@@ -31,7 +31,7 @@ This day alone shows a culmination of humor as it has the pranks and practices h
 ## Banana Slip
 <a href="https://www.youtube.com/watch?v=YZRq3XxCZXo"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-peel-slip.jpg" height="275" width="400" ></a>
 
-The banana peel is infamous for its perceived ability to bring people to tears, be it in pain or laughter. However, the banana peel is not quite as slippery as we believe. When the banana first became a comedy gag, it was a symbol for the accumulating waste clogging up the streets of late 18th century United States. At this time, there was no one to clean up the trash, leaving the banana...
+The banana peel is infamous for its perceived ability to bring people to tears, be it in pain or laughter. However, the banana peel is not quite as slippery as we believe. When the banana first became a comedy gag, it was a symbol for the accumulating waste clogging up the streets of late 18th century United States. At this time, there was no one to clean up the trash, leaving the peel to decompose until the inside was slick enough to slip up passerby. A single fresh peel, as demonstrated by the Mythbusters, is not a likely hazard. The gag has been so successful that the banana peels are still treated with caution and are now infamous in comedy and video games.
 
 ### Sources:
 <ul>
@@ -113,7 +113,7 @@ Churchill’s sharp tongue and indomitable spirit greatly contributed to a legac
 </ul>
 
 ## World War II Hoax: Carrots & Eyesight
-<a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/carrots-nightsight.jpg" height="400" width="275"></a>
+<a href="https://www.youtube.com/watch?v=8544x9GWQPE"><img src="https://actamu.github.io/laughing-aggies/public/images/carrots-nightsight.jpg" height="400" width="300"></a>
 
 Even into the 21st century, parents are still telling their children to eat carrots to help improve their eyesight. Unfortunately, carrots due not have quite the effect we would like to believe. The myth began as WWII propaganda. The UK had a new radar technology that helped their airforce locate enemy bombers. To keep this secret, they informed the press that a diet rich in carrots improved their pilot’s eyesight. Although there is little evidence the German military actually believed the rumor, the belief that carrots improve eyesight grew in the general public and the hoax lives on today.
 
