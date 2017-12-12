@@ -177,6 +177,10 @@ div.tab button.active {
   <h3>Comic #5: Printing in the Old Times</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="300" ></a>
   <p>A modern problem being compared with an older version of the problem.</p>
+  
+  <h3>Joke #4: Taylor Swift Punchline</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/taylorswift-and-vampire.jpg" height="350" width="350" ></a>
+  <p>Mixing a pop culture reference with a globally known fantasy figure.</p> 
 </div>
 
 <!-- Comics Tab -->
@@ -238,6 +242,10 @@ div.tab button.active {
   <h3>Joke #3: Texting Jokes</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/texting-joke.jpg" height="400" width="350" ></a>
   <p>Ah, the little "play-on-words" ploy, I see!</p>
+  
+  <h3>Joke #4: Taylor Swift Punchline</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/taylorswift-and-vampire.jpg" height="350" width="350" ></a>
+  <p>Mixing a pop culture reference with a globally known fantasy figure.</p> 
 </div>
 
 <!-- Memes Tab -->
