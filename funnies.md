@@ -121,6 +121,36 @@ div.tab button.active {
   <p>Ah, the little "play-on-words" ploy, I see!</p>
 </div>
 
+<div id="Memes" class="tabcontent">
+  <h3>Meme #1: Roman Love Interuptions</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/romancomedy.png" height="400" width="275" ></a>
+  <p>Combination of antiquity paintings with modern humor.</p>
+  
+  <h3>Meme #2: Cesar Being Lit</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/Cesar_and_music.png" height="450" width="400" ></a>
+  <p>Interlacing of an ancient leader with modern humor.</p>
+  
+  <h3>Meme #3: Babylonian Complaints Type A</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/copper_complaint.jpg" height="1500" width="400" ></a>
+  <p>The showcase of ancient "spam" mail via the internet.</p>
+  
+  <h3>Meme #4: What Scares Me More</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/what_scares_me.jpg" height="275" width="400" ></a>
+  <p>What scares you more? #HorrorVSTruth :ghost:</p>
+  
+  <h3>Meme #5: Talking to "You-Know-Who"</h3>
+  <a href="https://www.tumblr.com/search/jaiden-animations"><img src="https://actamu.github.io/laughing-aggies/public/images/jaidenanimations.png" height="425" width="400" ></a>
+  <p>This freeze pic from one of <a href="https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA">Jaiden Animations'</a> YouTube videos is being used by the creator herself on her <a href="https://www.tumblr.com/search/jaiden-animations">Tumblr account</a> as a meme to explain how one, specifically her, would talk to her crush, which is portrayed in a comical manner.</p>
+  
+  <h3>Meme #6: Going to Work Vibes</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/going-to-work-meme.png" height="325" width="350" ></a>
+  <p>I wonder how a kid would react if they had to go to work the next day. :open_mouth:</p>
+  
+  <h3>Meme #7: Savagry 101</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="325" width="300" ></a>
+  <p>How to be a savage 101.</p>
+</div>
+
 <script>
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
