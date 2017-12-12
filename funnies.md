@@ -73,6 +73,22 @@ div.tab button.active {
   <h3>Comic #1: The Power of Shopping Carts</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
   <p>This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:</p>
+  
+  <h3>Comic #1: The Power of Shopping Carts</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
+  <p>This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:</p>
+  
+  <h3>Comic #2: First-Rate Organized Chaos</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/sarah-anderson-comic.jpg" height="550" width="350" ></a>
+  <p>Any parent's nightmare for their children. :smile_cat:</p>
+  
+  <h3>Comic #3: Mouse and Pig</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/mouse-and-pig.jpg" height="260" width="600" ></a>
+  <p>An illustration of the power of interpretation.</p>
+  
+  <h3>Comic #4: Sharing Political Opinions Through Comics</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/calvin-and-hobbes.jpg" height="575" width="400" ></a>
+  <p>Sometimes the best way to share your political opinion is through a cute and satirical cartoon such as <a href="http://www.gocomics.com/calvinandhobbes">Calvin and Hobbes</a>.</p>
 </div>
 
 <div id="Forums" class="tabcontent">
