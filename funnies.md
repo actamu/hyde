@@ -70,7 +70,7 @@ div.tab button.active {
   <p>Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.</p>
   
   <h3>Quote #1: Ghandi Funny</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="400" width="300" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="380" width="300" ></a>
   <p>Here are 22 funny quotes famous people have said. There are plenty of cases where sarcasm is the main ingredient to the humor: <a href="http://theawesomedaily.com/funny-quotes-from-famous-people-in-history/">22 Funny Quotes Famous People In History Said That Are Still Hilarious</a>.</p>
   
   <h3>Forum Revelation #1: The Power of Shopping Carts</h3>
