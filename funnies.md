@@ -65,15 +65,9 @@ div.tab button.active {
 </div>
 
 <div id="All" class="tabcontent">
-  <h3>All</h3>
-  <p>London is the capital city of England.</p>
 </div>
 
 <div id="Comics" class="tabcontent">
-  <h3>Comic #1: The Power of Shopping Carts</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
-  <p>This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:</p>
-  
   <h3>Comic #1: The Power of Shopping Carts</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shoppingcart.png" height="400" width="400" ></a>
   <p>This comic presents how one can have fun while out doing errands, specifically at the grocery store. :see_no_evil:</p>
@@ -92,8 +86,39 @@ div.tab button.active {
 </div>
 
 <div id="Forums" class="tabcontent">
-  <h3>Forums</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <h3>Forum Revelation #1: The Power of Shopping Carts</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat_paws.jpg" height="400" width="275" ></a>
+  <p>God Cat paws is watching!</p>
+  
+  <h3>Forum Revelation #2: Tumblr Spiral</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/tumblr-mess-sparta.jpg" height="500" width="400" ></a>
+  <p>This tumblr post is the perfect example of someone trying to make a valid statement and the Internet community bonding together as the spiral of comments continue to evolve to ridiculousness with everyday remarks to modern day quotes.</p>
+  
+  <h3>Forum Revelation #3: Stupidity Leak</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/stupidity-revelation.jpg" height="350" width="475" ></a>
+  <p>Sometimes it's more fun to be sarcastic than to try and correct stupidity.</p>
+  
+  <h3>Forum Revelation #4: An Archaeologist's Epiphany</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/graverobbing-showerthoughts.jpg" height="300" width="450" ></a>
+  <p>Thinking aloud can bring out the funniest revelations about jobs.</p>
+</div>
+
+<div id="Jokes" class="tabcontent">
+  <h3>Joke #1: 90s Gym Class</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/gym_class.png" height="275" width="400" ></a>
+  <p>Jokes only 90s kids understand: often, humor is dependent on a relatable situation or experience.</p>
+  
+  <h3>Jokes Galore: The 100 Jokes That Shaped Modern Comedy</h3>
+  <a href="http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs_playing_poker.jpg" height="275" width="400" ></a>
+  <p>From the Marx Brothers to The Simpsons, Richard Pryor to Amy Schumer - 100 bits, sketches, and one-liners that changed humor forever: <a href="http://www.vulture.com/2016/01/100-jokes-shaped-modern-comedy-c-v-r.html">The 100 Jokes That Shaped Modern Comedy</a>.</p>
+  
+  <h3>Joke #2: A Cat and Its Tail</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/cat-tail-joke.png" height="350" width="375" ></a>
+  <p>Puns are one of the oldest ways of using corny humor.</p>
+  
+  <h3>Joke #3: Texting Jokes</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/texting-joke.jpg" height="400" width="350" ></a>
+  <p>Ah, the little "play-on-words" ploy, I see!</p>
 </div>
 
 <script>
