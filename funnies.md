@@ -151,6 +151,28 @@ div.tab button.active {
   <p>How to be a savage 101.</p>
 </div>
 
+<div id="Quotes" class="tabcontent">
+  <h3>Quote #1: Ghandi Funny</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/ghandi_funny.jpeg" height="400" width="300" ></a>
+  <p>Here are 22 funny quotes famous people have said. There are plenty of cases where sarcasm is the main ingredient to the humor: <a href="http://theawesomedaily.com/funny-quotes-from-famous-people-in-history/">22 Funny Quotes Famous People In History Said That Are Still Hilarious</a>.</p>
+  
+  <h3>Quote #2: Earbud Etiquette</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/modern_hattip.png" ></a>
+  <p>This line perfectly exemplifies the cultural changes over the centuries, and in this case, the change is in public etiquette.</p>
+  
+  <h3>Quote #3: Encouragement for the Masses</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/unique_encouragement_quote.jpg" height="300" width="400" ></a>
+  <p>This quote displays sarcasm by playing you into believing you're reading encouragement while it is essentially ridiculing you. :satisfied:</p>
+  
+  <h3>Quote #4: Everything is Funny</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/everything-is-funny-quote.png" height="275" width="400" ></a>
+  <p>This quote makes fun of situational humor which plays on the fact that as long as the joke is not occurring to you, of course it is going to be hilarious. Otherwise, it takes special people to see the humor beyond the joke that is being made at their expense.</p>
+  
+  <h3>Quote #5: <i>Elf</i> at Its Finest"</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/elf-funny.jpg" height="400" width="350" ></a>
+  <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
+</div>
+
 <script>
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
