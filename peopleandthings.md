@@ -83,6 +83,30 @@ Comedic genius, Robin Williams, lived a vibrant life of many comic successes in 
   <li><a href="https://www.biography.com/people/robin-williams-9532797"><code class="highlighter-rouge">Biography.com</code></a></li>
 </ul>
 
+## Shakespeare Comedies
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="400" ></a>
+
+William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception (Much Ado about Nothing), mockery (Taming of the Shrew), and even disguising characters as the opposite gender (As You Like It and The Twelfth Night).
+
+Shakespeare is even responsible for many of the words and references we use in expressions today, including:
+<ul>
+  <li>Knock, knock. Who’s there? (Macbeth)</li>
+  <li>Wild goose chase (Romeo and Juliet)</li>
+  <li>In a pickle (The Tempest)</li>
+  <li>For goodness’ sake (Henry VIII)</li>
+  <li>Laughing stock (The Merry Wives of Windsor)</li>
+  <li>It’s Greek to me(Julius Caesar)</li>
+</ul>
+
+You read that right, Shakespeare is the responsible the knock knock jokes you pestered your parents with as a child. For a bit of fun, here is a list of some knock knock jokes to have you roll your eyes and share with a friend.
+
+### Sources & Quotes:
+<ul>
+  <li><a href="https://www.bl.uk/shakespeare/articles/an-introduction-to-shakespeares-comedy#"><code class="highlighter-rouge">An Introduction to Shakespeare's Comedy</code></a></li>
+  <li><a href="https://www.thoughtco.com/quotes-from-shakespeare-plays-2985154"><code class="highlighter-rouge">Shakespeare's Humorous Quotes</code></a></li>
+  <li><a href="http://www.pathguy.com/shakeswo.htm"><code class="highlighter-rouge">Words and Phrases Coined by Shakespeare</code></a></li>
+</ul>
+
 ## Winston Churchill: Unlikely One-Liner King
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/winston-churchill.jpg" height="275" width="400" ></a>
 
