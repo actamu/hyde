@@ -227,7 +227,7 @@ div.tab button.active {
   <p>If you're going to fight back with your words, might as well make it worthwhile with a witty remark. :smiling_imp:</p>
   
   <h3>Meme #8: Teacher Encouragement</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="275" width="400" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="300" width="400" ></a>
   <p>How to strike true encouragement in the hearts of your students in modern times.</p>
 </div>
 
@@ -353,7 +353,7 @@ div.tab button.active {
   <p>How to be a savage 101.</p>
   
   <h3>Meme #8: Teacher Encouragement</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="275" width="400" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="300" width="400" ></a>
   <p>How to strike true encouragement in the hearts of your students in modern times.</p>
 </div>
 
