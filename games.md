@@ -15,6 +15,10 @@ title: Games
 <a href="http://www.madtakes.com/"><img src="https://actamu.github.io/laughing-aggies/public/images/madlibs.jpg" height="275" width="450" ></a>
 > Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud. The game is frequently played as a party game or as a pastime: [Mad Libs - The World's Greatest Word Game](http://www.madtakes.com/)
 
+## Can Your Pet...?
+<a href="http://www.playcanyourpet.com/"><img src="https://actamu.github.io/laughing-aggies/public/images/chickplay.jpg" height="275" width="400" ></a>
+> Can your pet do "this" and "that"? [Test it](http://www.playcanyourpet.com/) and expose what kind of dark humor you have when it comes to your pet.
+
 ## "Oh, the cleverness of me!"
 <a href="http://www.agame.com/game/the-impossible-quiz"><img src="https://actamu.github.io/laughing-aggies/public/images/the-impossible-quiz.png" height="300" width="450" ></a>
 > If you find cleverness to be funny, then try out this game: [The Impossible Quiz](http://www.agame.com/game/the-impossible-quiz)!
