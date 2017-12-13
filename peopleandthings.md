@@ -94,7 +94,7 @@ Macfarlane's humor is often crude, violent, and downright controversial. His sho
 
 ### Source:
 <ul>
-  <li><a href="http://www.imdb.com/name/nm0532235/bio"><code class="highlighter-rouge">IMDB</code></a></li>
+  <li><a href="http://www.imdb.com/name/nm0532235/bio"><code class="highlighter-rouge">IMDB.com</code></a></li>
 </ul>
 
 ## Shakespeare Comedies
