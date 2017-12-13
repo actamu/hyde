@@ -213,6 +213,10 @@ div.tab button.active {
   <h3>Comic #7: House Cat, the Protector</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/housecat-protector.gif" height="350" width="350" ></a>
   <p>Reasoning leads the cat to feel the need to rid the world of evil while the real cause is the owner they most likely absolutely adore. Oh, the irony!</p>
+  
+  <h3>Forum Revelation #7: Hypocrisy 101</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/hypocrisy-101.jpg" height="400" width="300" ></a>
+  <p>One word: hypocrisy.</p>
 </div>
 
 
@@ -272,6 +276,10 @@ div.tab button.active {
   <h3>Forum Revelation #6: Banana Recovery</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="375" width="300" ></a>
   <p>Teaching real life hacks on what not to do and how to recover when it goes wrong. :banana:</p>
+
+  <h3>Forum Revelation #7: Hypocrisy 101</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/hypocrisy-101.jpg" height="400" width="300" ></a>
+  <p>One word: hypocrisy.</p>
 </div>
 
 <!-- Jokes Tab -->
