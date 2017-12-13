@@ -230,6 +230,10 @@ div.tab button.active {
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="300" width="400" ></a>
   <p>How to strike true encouragement in the hearts of your students in modern times.</p>
   
+  <h3>Comic #8: Being a Grown-up Hurts</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/reality-hurts-comic.jpg" height="400" width="300" ></a>
+  <p>Reality hits you real fast when you least expect. </p>
+  
   <h3>Meme #9: Memes Are Universal</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/memes-are-universal.jpg" height="500" width="425" ></a>
   <p>The beauty of memes is the fact that they are a universal and shared joke among the entire internet.</p>
@@ -266,6 +270,10 @@ div.tab button.active {
   <h3>Comic #7: House Cat, the Protector</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/housecat-protector.gif" height="350" width="350" ></a>
   <p>Reasoning leads the cat to feel the need to rid the world of evil while the real cause is the owner they most likely absolutely adore. Oh, the irony!</p>
+  
+  <h3>Comic #8: Being a Grown-up Hurts</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/reality-hurts-comic.jpg" height="400" width="300" ></a>
+  <p>Reality hits you real fast when you least expect. </p>
 </div>
 
 <!-- Forums Tab -->
