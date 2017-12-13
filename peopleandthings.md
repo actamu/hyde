@@ -84,7 +84,7 @@ Comedic genius, Robin Williams, lived a vibrant life of many comic successes in 
 </ul>
 
 ## Shakespeare Comedies
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="450" ></a>
 
 William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception (Much Ado about Nothing), mockery (Taming of the Shrew), and even disguising characters as the opposite gender (As You Like It and The Twelfth Night).
 
