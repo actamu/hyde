@@ -207,7 +207,7 @@ div.tab button.active {
   <p>This insult is the definition of excessive with the long string of insults and over-the-top impression of an accent for the cartoon character.</p>
   
   <h3>Quote #6: Shakespeare Insult</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare.jpg" height="350" width="350" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare-insult.jpg" height="350" width="350" ></a>
   <p>Poking fun at others is yet another form of humor when done tastefully.</p>
 </div>
 
@@ -343,7 +343,7 @@ div.tab button.active {
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
   
   <h3>Quote #6: Shakespeare Insult</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare.jpg" height="350" width="350" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare-insult.jpg" height="350" width="350" ></a>
   <p>Poking fun at others is yet another form of humor when done tastefully.</p>
 </div>
 
