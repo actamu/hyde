@@ -97,7 +97,22 @@ Macfarlane's humor is often crude, violent, and downright controversial. His sho
   <li><a href="http://www.imdb.com/name/nm0532235/bio"><code class="highlighter-rouge">IMDB.com</code></a></li>
 </ul>
 
-## Shakespeare Comedies
+## Walt Disney
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/walt-disney.jpg" height="300" width="300" ></a>
+
+<i>“Childishness? I think it’s the equivalent of never losing your sense of humor. I mean, there’s a certain something that you retain. It’s the equivalent of not getting so stuffy that you can’t laugh at others.”</i> ~Walt Disney
+
+Disney animations have pulled on the heartstrings of children for generations. His cartoons were made possible only after enduring many hardships himself; he grew up in poverty, his first studio went bankrupt, and had to mortgage his house to create his first epic movie. But these hardships shaped what would later become the classic Disney brand. Even the creation of Mickey Mouse was a result of a bad business deal. In his own words, Disney described the humor that inspired him,“I can’t laugh at intellectual humor, you know? I want to be hit here. I’m just corny enough. I want to be hit right here in the heart.” The Disney brand has an innocent and lasting humor that is still influential today. 
+
+[Read more here](http://waltdisney.org/blog/fooling-around-disney-walts-april-and-other-foolishness) about how Walt Disney grew up and how that shaped his humor.
+
+### Sources:
+<ul>
+  <li><a href="http://waltdisney.org/blog/fooling-around-disney-walts-april-and-other-foolishness"><code class="highlighter-rouge">Fooling Around at Disney: Walt's April (and Other) Foolishness</code></a></li>
+  <li><a href="https://www.inc.com/bill-murphy-jr/13-moving-facts-about-walt-disney-that-will-inspire-you-to-succeed.html"><code class="highlighter-rouge">Walt Disney Facts</code></a></li>
+</ul>
+
+## William Shakespeare Comedies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="450" ></a>
 
 William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception (Much Ado about Nothing), mockery (Taming of the Shrew), and even disguising characters as the opposite gender (As You Like It and The Twelfth Night).
@@ -119,21 +134,6 @@ You read that right, Shakespeare is the responsible the knock knock jokes you pe
   <li><a href="https://www.bl.uk/shakespeare/articles/an-introduction-to-shakespeares-comedy#"><code class="highlighter-rouge">An Introduction to Shakespeare's Comedy</code></a></li>
   <li><a href="https://www.thoughtco.com/quotes-from-shakespeare-plays-2985154"><code class="highlighter-rouge">Shakespeare's Humorous Quotes</code></a></li>
   <li><a href="http://www.pathguy.com/shakeswo.htm"><code class="highlighter-rouge">Words and Phrases Coined by Shakespeare</code></a></li>
-</ul>
-
-## Walt Disney
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/walt-disney.jpg" height="300" width="300" ></a>
-
-<i>“Childishness? I think it’s the equivalent of never losing your sense of humor. I mean, there’s a certain something that you retain. It’s the equivalent of not getting so stuffy that you can’t laugh at others.”</i> ~Walt Disney
-
-Disney animations have pulled on the heartstrings of children for generations. His cartoons were made possible only after enduring many hardships himself; he grew up in poverty, his first studio went bankrupt, and had to mortgage his house to create his first epic movie. But these hardships shaped what would later become the classic Disney brand. Even the creation of Mickey Mouse was a result of a bad business deal. In his own words, Disney described the humor that inspired him,“I can’t laugh at intellectual humor, you know? I want to be hit here. I’m just corny enough. I want to be hit right here in the heart.” The Disney brand has an innocent and lasting humor that is still influential today. 
-
-[Read more here](http://waltdisney.org/blog/fooling-around-disney-walts-april-and-other-foolishness) about how Walt Disney grew up and how that shaped his humor.
-
-### Sources:
-<ul>
-  <li><a href="http://waltdisney.org/blog/fooling-around-disney-walts-april-and-other-foolishness"><code class="highlighter-rouge">Fooling Around at Disney: Walt's April (and Other) Foolishness</code></a></li>
-  <li><a href="https://www.inc.com/bill-murphy-jr/13-moving-facts-about-walt-disney-that-will-inspire-you-to-succeed.html"><code class="highlighter-rouge">Walt Disney Facts</code></a></li>
 </ul>
 
 ## Winston Churchill: Unlikely One-Liner King
