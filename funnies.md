@@ -193,7 +193,12 @@ div.tab button.active {
   <h3>Video #5: "Terrorists, You Can't Make The NYC Commute Any Worse"</h3>
   <a href="https://www.youtube.com/watch?v=nWNqCrLr3XA"><img src="https://actamu.github.io/laughing-aggies/public/images/stephencolbert-logo.png" height="350" width="350" alt="stephencolbert"></a>
   <p>Taking dark news stories and making light of them to make people laugh despite turbulent times.</p> 
+  
+  <h3>Video #7: "The Scotsman's 20-second Long Insult"</h3>
+  <a href="https://www.youtube.com/watch?v=L-LyFMCIpok"><img src="https://actamu.github.io/laughing-aggies/public/images/samuraijack-scotsman.jpg" height="350" width="350" alt="samuraijackinsults"></a>
+  <p>This insult is the definition of excessive with the long string of insults and over-the-top impression of an accent for the cartoon character.</p>
 </div>
+
 
 <!-- Comics Tab -->
 <div id="Comics" class="tabcontent">
@@ -338,7 +343,15 @@ div.tab button.active {
   
   <h3>Video #5: "Terrorists, You Can't Make The NYC Commute Any Worse"</h3>
   <a href="https://www.youtube.com/watch?v=nWNqCrLr3XA"><img src="https://actamu.github.io/laughing-aggies/public/images/stephencolbert-logo.png" height="350" width="350" alt="stephencolbert"></a>
-  <p>Taking dark news stories and making light of them to make people laugh despite turbulent times.</p> 
+  <p>Taking dark news stories and making light of them to make people laugh despite turbulent times.</p>
+  
+  <h3>Video #6: "Badger, Badger, Badger"</h3>
+  <a href="https://www.youtube.com/watch?v=NL6CDFn2i3I"><img src="https://actamu.github.io/laughing-aggies/public/images/badger-badger-badger.png" height="275" width="400" alt="badgerbadgerbadger"></a>
+  <p>Vines are a video only a few seconds long that repeats. This video is like the predecessor of vines where the sheer repetition is humorous and the video of dancing badgers is just outright bizarre.</p>
+  
+  <h3>Video #7: "The Scotsman's 20-second Long Insult"</h3>
+  <a href="https://www.youtube.com/watch?v=L-LyFMCIpok"><img src="https://actamu.github.io/laughing-aggies/public/images/samuraijack-scotsman.jpg" height="350" width="350" alt="samuraijackinsults"></a>
+  <p>This insult is the definition of excessive with the long string of insults and over-the-top impression of an accent for the cartoon character.</p>
 </div>
 
 <script>
