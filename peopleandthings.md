@@ -83,6 +83,20 @@ Comedic genius, Robin Williams, lived a vibrant life of many comic successes in 
   <li><a href="https://www.biography.com/people/robin-williams-9532797"><code class="highlighter-rouge">Biography.com</code></a></li>
 </ul>
 
+## Seth McFarlone
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/seth-macfarlane.jpg" height="275" width="400" ></a>
+
+An incredibly talented voice actor, Seth MacFarlane is the creator of Family Guy and voices four of the main characters and various recurring characters. He is also responsible for the creation of American Dad, another adult cartoon show. He voices two of the main characters on that show. His ability to sound like so many different characters is truly astounding!
+
+MacFarlane attended the Rhode Island School of Design and studied animation. After his schooling, he proceeded to establish himself as renowned voice actor with a career starting in 1995 through the present day.
+
+Macfarlane's humor is often crude, violent, and downright controversial. His shows have repeatedly come under fire for a whole host of offensive one liners and depictions of violence. Yet his shows are among the longest running in cartoon history. While some viewers find his brand of comedy "too much", others enjoy the over-the-top antics and blatent disregard for social boundaries. The shows aren't for everyone, but that doesn't stop others from finding the shows humorous.
+
+### Source:
+<ul>
+  <li><a href="http://www.imdb.com/name/nm0532235/bio"><code class="highlighter-rouge">IMDB</code></a></li>
+</ul>
+
 ## Shakespeare Comedies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="450" ></a>
 
