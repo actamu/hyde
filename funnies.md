@@ -194,6 +194,10 @@ div.tab button.active {
   <a href="https://www.youtube.com/watch?v=nWNqCrLr3XA"><img src="https://actamu.github.io/laughing-aggies/public/images/stephencolbert-logo.png" height="350" width="350" alt="stephencolbert"></a>
   <p>Taking dark news stories and making light of them to make people laugh despite turbulent times.</p> 
   
+  <h3>Forum Revelation #6: Banana Recovery</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="400" width="300" ></a>
+  <p>Teaching real life hacks on what not to do and how to recover when it goes wrong. :banana:</p>
+  
   <h3>Video #7: "The Scotsman's 20-second Long Insult"</h3>
   <a href="https://www.youtube.com/watch?v=L-LyFMCIpok"><img src="https://actamu.github.io/laughing-aggies/public/images/samuraijack-scotsman.jpg" height="275" width="400" alt="samuraijackinsults"></a>
   <p>This insult is the definition of excessive with the long string of insults and over-the-top impression of an accent for the cartoon character.</p>
@@ -244,6 +248,10 @@ div.tab button.active {
   <h3>Forum Revelation #5: Is This Reality?</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/wearesims.jpg" height="400" width="300" ></a>
   <p>When a simple statement of observation turns into an existential question about reality.</p>
+  
+  <h3>Forum Revelation #6: Banana Recovery</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="400" width="300" ></a>
+  <p>Teaching real life hacks on what not to do and how to recover when it goes wrong. :banana:</p>
 </div>
 
 <!-- Jokes Tab -->
