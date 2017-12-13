@@ -154,7 +154,7 @@ div.tab button.active {
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/going-to-work-meme.png" height="325" width="350" ></a>
   <p>I wonder how a kid would react if they had to go to work the next day. :open_mouth:</p>
   
-  <h3>Quote #5: <i>Elf</i> at Its Finest"</h3>
+  <h3>Quote #5: <i>Elf</i> at Its Finest</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/elf-funny.jpg" height="400" width="350" ></a>
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
   
@@ -217,6 +217,10 @@ div.tab button.active {
   <h3>Forum Revelation #7: Hypocrisy 101</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/hypocrisy-101.jpg" height="400" width="300" ></a>
   <p>One word: hypocrisy.</p>
+  
+  <h3>Joke #5: "Yo mama is so..."</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/yo-mama-marxist-joke.jpg" height="400" width="300" ></a>
+  <p>Putting a twist to a modern day "yo mama" joke.</p>
 </div>
 
 
@@ -303,6 +307,10 @@ div.tab button.active {
   <h3>Joke #4: Taylor Swift Punchline</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/taylorswift-and-vampire.jpg" height="350" width="350" ></a>
   <p>Mixing a pop culture reference with a globally known fantasy figure.</p> 
+  
+  <h3>Joke #5: "Yo mama is so..."</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/yo-mama-marxist-joke.jpg" height="400" width="300" ></a>
+  <p>Putting a twist to a modern day "yo mama" joke.</p>
 </div>
 
 <!-- Memes Tab -->
@@ -354,7 +362,7 @@ div.tab button.active {
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/everything-is-funny-quote.png" height="275" width="400" ></a>
   <p>This quote makes fun of situational humor which plays on the fact that as long as the joke is not occurring to you, of course it is going to be hilarious. Otherwise, it takes special people to see the humor beyond the joke that is being made at their expense.</p>
   
-  <h3>Quote #5: <i>Elf</i> at Its Finest"</h3>
+  <h3>Quote #5: <i>Elf</i> at Its Finest</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/elf-funny.jpg" height="400" width="350" ></a>
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
   
