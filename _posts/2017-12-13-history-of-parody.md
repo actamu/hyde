@@ -10,7 +10,7 @@ The first time the actual word parody was used in English wasn’t until 1598 wh
 
 In the Twentieth century, the parody began to reach its height and many sub genres were created. These include Recontextualized parody which incorporates elements from many other texts, modern parody which ridicules a certain subject rather the text it imitates, and Pastiche which mimics visual art. Even works such as Rosencrantz and Guildenstern are Dead are regarded as parody due to the borrowing of characters from Shakespeare while recreating the same scenes in a comedic perspective, similar to fan fiction today. 
 
-Recently, parodies have expanded beyond literature and poetry as new mediums have been introduced. Films chock full of parodies are sought out for their hilarity, including Monty Python and the Holy Grail. Artist “Weird Al” Yankovic is one of the most well known examples of musical parody. Many artists who have had music reinvented by him regard it as an honor. [Click here](https://www.youtube.com/watch?v=ZcJjMnHoIBI) to watch one of his parodies of Michael Jackson's song "Beat It" called "Eat It".
+Recently, parodies have expanded beyond literature and poetry as new mediums have been introduced. Films chock full of parodies are sought out for their hilarity, including Monty Python and the Holy Grail. Artist “Weird Al” Yankovic is one of the most well known examples of musical parody. Many artists who have had music reinvented by him regard it as an honor. [Click here](https://www.youtube.com/watch?v=ZcJjMnHoIBI) to watch one of his parodies of Michael Jackson's song "Beat It" called "[Eat It](https://www.youtube.com/watch?v=ZcJjMnHoIBI)".
 
 ### Sources:
 <ul>
