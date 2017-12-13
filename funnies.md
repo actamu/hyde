@@ -195,7 +195,7 @@ div.tab button.active {
   <p>Taking dark news stories and making light of them to make people laugh despite turbulent times.</p> 
   
   <h3>Forum Revelation #6: Banana Recovery</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="400" width="300" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="375" width="300" ></a>
   <p>Teaching real life hacks on what not to do and how to recover when it goes wrong. :banana:</p>
   
   <h3>Video #7: "The Scotsman's 20-second Long Insult"</h3>
@@ -250,7 +250,7 @@ div.tab button.active {
   <p>When a simple statement of observation turns into an existential question about reality.</p>
   
   <h3>Forum Revelation #6: Banana Recovery</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="400" width="300" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="375" width="300" ></a>
   <p>Teaching real life hacks on what not to do and how to recover when it goes wrong. :banana:</p>
 </div>
 
