@@ -209,6 +209,10 @@ div.tab button.active {
   <h3>Quote #6: Shakespeare Insult</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare-insult.jpg" height="350" width="350" ></a>
   <p>Poking fun at others is yet another form of humor when done tastefully.</p>
+  
+  <h3>Comic #7: House Cat, the Protector</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/housecat-protector.gif" height="350" width="350" ></a>
+  <p>Reasoning leads the cat to feel the need to rid the world of evil while the real cause is the owner they most likely absolutely adore. Oh, the irony!</p>
 </div>
 
 
@@ -237,6 +241,10 @@ div.tab button.active {
   <h3>Comic #6: Dog Logic</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="325" ></a>
   <p>Dog logic projected in a cute manner through dog and animal lovers' eyes.</p>
+  
+  <h3>Comic #7: House Cat, the Protector</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/housecat-protector.gif" height="350" width="350" ></a>
+  <p>Reasoning leads the cat to feel the need to rid the world of evil while the real cause is the owner they most likely absolutely adore. Oh, the irony!</p>
 </div>
 
 <!-- Forums Tab -->
