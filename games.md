@@ -17,7 +17,7 @@ title: Games
 
 ## Can Your Pet...?
 <a href="http://www.playcanyourpet.com/"><img src="https://actamu.github.io/laughing-aggies/public/images/chickplay.jpg" height="275" width="400" ></a>
-> Can your pet do "this" and "that"? [Test it](http://www.playcanyourpet.com/) and expose what kind of dark humor you have when it comes to your pet.
+> Can your pet do "this" and "that"? [Test it](http://www.playcanyourpet.com/) and expose what kind of dark humor you have when it comes to your pet. :baby_chick:
 
 ## "Oh, the cleverness of me!"
 <a href="http://www.agame.com/game/the-impossible-quiz"><img src="https://actamu.github.io/laughing-aggies/public/images/the-impossible-quiz.png" height="300" width="450" ></a>
