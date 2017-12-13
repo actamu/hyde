@@ -90,12 +90,12 @@ William Shakespeare became one of the most well known authors of all time, and h
 
 Shakespeare is even responsible for many of the words and references we use in expressions today, including:
 <ul>
-  <li>Knock, knock. Who’s there? (Macbeth)</li>
-  <li>Wild goose chase (Romeo and Juliet)</li>
-  <li>In a pickle (The Tempest)</li>
-  <li>For goodness’ sake (Henry VIII)</li>
-  <li>Laughing stock (The Merry Wives of Windsor)</li>
-  <li>It’s Greek to me(Julius Caesar)</li>
+  <li>Knock, knock. Who’s there? <i>(Macbeth)</i></li>
+  <li>Wild goose chase. <i>(Romeo and Juliet)</i></li>
+  <li>In a pickle. <i>(The Tempest)</i></li>
+  <li>For goodness’ sake. <i>(Henry VIII)</i></li>
+  <li>Laughing stock. <i>(The Merry Wives of Windsor)</i></li>
+  <li>It’s Greek to me. <i>(Julius Caesar)</i></li>
 </ul>
 
 You read that right, Shakespeare is the responsible the knock knock jokes you pestered your parents with as a child. For a bit of fun, here is a list of some knock knock jokes to have you roll your eyes and share with a friend.
