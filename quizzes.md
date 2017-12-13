@@ -18,3 +18,7 @@ title: Quizzes
 ## How Do You Use Humor?
 <a href="https://www.psychologytoday.com/articles/200607/how-do-you-use-humor"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs-and-partyhats.jpg" height="300" width="375" ></a>
 > [Click this link](https://www.psychologytoday.com/articles/200607/how-do-you-use-humor) to figure out how you utilize humor in your everyday life. Enjoy!
+
+## How Sarcastic Are You?
+<a href="http://www.bbcamerica.com/anglophenia/2014/03/personality-quiz-sarcastic"><img src="https://actamu.github.io/laughing-aggies/public/images/dogs-and-partyhats.jpg" height="300" width="375" ></a>
+> [Take this quiz](http://www.bbcamerica.com/anglophenia/2014/03/personality-quiz-sarcastic) to see how fine-tuned your sense of sarcasm is today!
