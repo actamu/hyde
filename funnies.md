@@ -221,6 +221,10 @@ div.tab button.active {
   <h3>Joke #5: "Yo mama is so..."</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/yo-mama-marxist-joke.jpg" height="400" width="300" ></a>
   <p>Putting a twist to a modern day "yo mama" joke.</p>
+  
+  <h3>Quote #7: Witty Comebacks for the Haters</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/minion-comeback.jpg" height="350" width="350" ></a>
+  <p>If you're going to fight back with your words, might as well make it worthwhile with a witty remark. :smiling_imp:</p>
 </div>
 
 
@@ -369,6 +373,10 @@ div.tab button.active {
   <h3>Quote #6: Shakespeare Insult</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare-insult.jpg" height="350" width="350" ></a>
   <p>Poking fun at others is yet another form of humor when done tastefully.</p>
+  
+  <h3>Quote #7: Witty Comebacks for the Haters</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/minion-comeback.jpg" height="350" width="350" ></a>
+  <p>If you're going to fight back with your words, might as well make it worthwhile with a witty remark. :smiling_imp:</p>
 </div>
 
 <!-- Videos Tab -->
