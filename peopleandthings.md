@@ -115,7 +115,7 @@ Disney animations have pulled on the heartstrings of children for generations. H
 ## William Shakespeare Comedies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="450" ></a>
 
-William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception (Much Ado about Nothing), mockery (Taming of the Shrew), and even disguising characters as the opposite gender (As You Like It and The Twelfth Night).
+William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception (<i>Much Ado about Nothing</i>), mockery (<i>Taming of the Shrew</i>), and even disguising characters as the opposite gender (<i>As You Like It and The Twelfth Night</i>).
 
 Shakespeare is even responsible for many of the words and references we use in expressions today, including:
 <ul>
@@ -154,7 +154,7 @@ It is also easy to imagine Churchill as a contender for a reality TV show with h
   </ul>
   <li>"A lady came up to me one day and said 'Sir! You are drunk', to which I replied 'I am drunk today madam, and tomorrow   I shall be sober but you will still be ugly."</li>
   <ul>
-    <li>This was thought to have been inspired by lines from the 1934 film It’s a Gift. In the film, when told he was drunk,      one of the characters responded with “Yeah, and you’re crazy. But I’ll be sober tomorrow and you’ll be crazy the rest       of your life.”</li>
+    <li>This was thought to have been inspired by lines from the 1934 film It’s a Gift. In the film, when told he was drunk, one of the characters responded with “Yeah, and you’re crazy. But I’ll be sober tomorrow and you’ll be crazy the rest of your life.”</li>
   </ul>
 </ul>
 Churchill’s sharp tongue and indomitable spirit greatly contributed to a legacy not just for his military efforts, but though his writings and wit as well.  The WWII prime minister inspired nations gripped in war and still his humorous wisdom is well known today.
