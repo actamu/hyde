@@ -4,7 +4,7 @@ title: Games
 ---
 
 <p class="message">
-  This tab incorporates a variety of online games selected on their ability to address some people's types of humor. Play   along to figure out if they appeal to yours.
+  This tab incorporates a variety of online games selected on their ability to address some people's types of humor. Play along to figure out if they appeal to yours!
 </p>
 
 ## There Is No Game
