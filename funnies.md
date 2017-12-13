@@ -198,6 +198,10 @@ div.tab button.active {
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/banana-recovery.jpg" height="375" width="300" ></a>
   <p>Teaching real life hacks on what not to do and how to recover when it goes wrong. :banana:</p>
   
+  <h3>Comic #6: Dog Logic</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="300" ></a>
+  <p>Dog logic projected in a cute manner through dog and animal lovers' eyes.</p>
+  
   <h3>Video #7: "The Scotsman's 20-second Long Insult"</h3>
   <a href="https://www.youtube.com/watch?v=L-LyFMCIpok"><img src="https://actamu.github.io/laughing-aggies/public/images/samuraijack-scotsman.jpg" height="275" width="400" alt="samuraijackinsults"></a>
   <p>This insult is the definition of excessive with the long string of insults and over-the-top impression of an accent for the cartoon character.</p>
@@ -225,6 +229,10 @@ div.tab button.active {
   <h3>Comic #5: Printing in the Old Times</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/printers-down.png" height="400" width="300" ></a>
   <p>A modern problem being compared with an older version of the problem.</p>
+  
+  <h3>Comic #6: Dog Logic</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="300" ></a>
+  <p>Dog logic projected in a cute manner through dog and animal lovers' eyes.</p>
 </div>
 
 <!-- Forums Tab -->
