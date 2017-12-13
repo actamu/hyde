@@ -84,7 +84,7 @@ Comedic genius, Robin Williams, lived a vibrant life of many comic successes in 
 </ul>
 
 ## Seth McFarlone
-<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/seth-macfarlane.jpg" height="275" width="400" ></a>
+<a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/seth-macfarlane.jpg" height="300" width="400" ></a>
 
 An incredibly talented voice actor, Seth MacFarlane is the creator of Family Guy and voices four of the main characters and various recurring characters. He is also responsible for the creation of American Dad, another adult cartoon show. He voices two of the main characters on that show. His ability to sound like so many different characters is truly astounding!
 
