@@ -205,6 +205,10 @@ div.tab button.active {
   <h3>Video #7: "The Scotsman's 20-second Long Insult"</h3>
   <a href="https://www.youtube.com/watch?v=L-LyFMCIpok"><img src="https://actamu.github.io/laughing-aggies/public/images/samuraijack-scotsman.jpg" height="275" width="400" alt="samuraijackinsults"></a>
   <p>This insult is the definition of excessive with the long string of insults and over-the-top impression of an accent for the cartoon character.</p>
+  
+  <h3>Quote #6: Shakespeare Insult</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare.jpg" height="350" width="350" ></a>
+  <p>Poking fun at others is yet another form of humor when done tastefully.</p>
 </div>
 
 
@@ -337,6 +341,10 @@ div.tab button.active {
   <h3>Quote #5: <i>Elf</i> at Its Finest"</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/elf-funny.jpg" height="400" width="350" ></a>
   <p>This quote from the movie <i>Elf</i> is a perfect example of mediums conveying humor widely expanding to where humorous quotes are ubiquitous.</p>
+  
+  <h3>Quote #6: Shakespeare Insult</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/shakespeare.jpg" height="350" width="350" ></a>
+  <p>Poking fun at others is yet another form of humor when done tastefully.</p>
 </div>
 
 <!-- Videos Tab -->
