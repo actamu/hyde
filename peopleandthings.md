@@ -115,7 +115,7 @@ Disney animations have pulled on the heartstrings of children for generations. H
 ## William Shakespeare Comedies
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/william-shakespeare.jpg" height="275" width="450" ></a>
 
-William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception (<i>Much Ado about Nothing</i>), mockery (<i>Taming of the Shrew</i>), and even disguising characters as the opposite gender (<i>As You Like It and The Twelfth Night</i>).
+William Shakespeare became one of the most well known authors of all time, and his works are filled with humor. Much of the references and jokes he made are lost on the average reader today due to a change in the times and experience. However, one can imagine the Globe Theater filled with peasants and nobility of all ages and backgrounds breaking into laughter at Shakespeare’s clever humor and dirtier jokes. Many of his comedies used humor in the form of misconception <i>(Much Ado about Nothing)</i>, mockery <i>(Taming of the Shrew)</i>, and even disguising characters as the opposite gender <i>(As You Like It and The Twelfth Night)</i>.
 
 Shakespeare is even responsible for many of the words and references we use in expressions today, including:
 <ul>
