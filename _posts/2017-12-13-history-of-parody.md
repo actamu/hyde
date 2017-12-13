@@ -2,7 +2,7 @@
 layout: post
 title: History of Parody
 ---
-<a href="https://www.youtube.com/watch?v=ZcJjMnHoIBI"><img src="https://actamu.github.io/laughing-aggies/public/images/weirdal-eatit.jpg" height="275" width="400" ></a>
+<a href="https://www.youtube.com/watch?v=ZcJjMnHoIBI"><img src="https://actamu.github.io/laughing-aggies/public/images/weirdal-eatit.jpg" height="275" width="450" ></a>
 
 As far back as third century BC, songs and poetry have been recreated as parodies. Greek writer Hegemon of Thasos was one of the first to alter the wording of well known poems. Roman parodies imitated the style of famous writers to create a humorous effect. Shakespeare’s sonnet #130, My mistress’ eyes are nothing like the sun can be regarded as a parody as it mimics the popularized poetic conventions, but twisted the words so that the sonnet has a contrary message. 
 
@@ -15,6 +15,6 @@ Recently, parodies have expanded beyond literature and poetry as new mediums hav
 ### Sources:
 <ul>
   <li><a href="http://examples.yourdictionary.com/examples-of-parody.html"><code class="highlighter-rouge">Examples of Parody</code></a></li>
-    <li><a href="https://literarydevices.net/parody/">Literary Devices: Parody</code></a></li>
+    <li><a href="https://literarydevices.net/parody/"><code class="highlighter-rouge">Literary Devices: Parody</code></code></a></li>
     <li><a href="https://en.wikipedia.org/wiki/Parody"><code class="highlighter-rouge">Wikipedia</code></a></li>
 </ul>
