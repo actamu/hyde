@@ -225,7 +225,12 @@ div.tab button.active {
   <h3>Quote #7: Witty Comebacks for the Haters</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/minion-comeback.jpg" height="350" width="350" ></a>
   <p>If you're going to fight back with your words, might as well make it worthwhile with a witty remark. :smiling_imp:</p>
+  
+  <h3>Meme #8: Teacher Encouragement</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="275" width="425" ></a>
+  <p>How to strike true encouragement in the hearts of your students in modern times.</p>
 </div>
+
 
 
 <!-- Comics Tab -->
@@ -346,6 +351,10 @@ div.tab button.active {
   <h3>Meme #7: Savagry 101</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/justice-league-savagry.jpg" height="325" width="300" ></a>
   <p>How to be a savage 101.</p>
+  
+  <h3>Meme #8: Teacher Encouragement</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="275" width="425" ></a>
+  <p>How to strike true encouragement in the hearts of your students in modern times.</p>
 </div>
 
 <!-- Quotes Tab -->
