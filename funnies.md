@@ -195,7 +195,7 @@ div.tab button.active {
   <p>Taking dark news stories and making light of them to make people laugh despite turbulent times.</p> 
   
   <h3>Comic #6: Dog Logic</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="300" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="325" ></a>
   <p>Dog logic projected in a cute manner through dog and animal lovers' eyes.</p>
   
   <h3>Forum Revelation #6: Banana Recovery</h3>
@@ -231,7 +231,7 @@ div.tab button.active {
   <p>A modern problem being compared with an older version of the problem.</p>
   
   <h3>Comic #6: Dog Logic</h3>
-  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="300" ></a>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/dogplaying-comic.jpg" height="400" width="325" ></a>
   <p>Dog logic projected in a cute manner through dog and animal lovers' eyes.</p>
 </div>
 
