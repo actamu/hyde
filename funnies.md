@@ -229,6 +229,10 @@ div.tab button.active {
   <h3>Meme #8: Teacher Encouragement</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="300" width="400" ></a>
   <p>How to strike true encouragement in the hearts of your students in modern times.</p>
+  
+  <h3>Meme #9: Memes Are Universal</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/memes-are-universal.jpg" height="400" width="300" ></a>
+  <p>The beauty of memes is the fact that they are a universal and shared joke among the entire internet.</p>
 </div>
 
 
@@ -355,6 +359,10 @@ div.tab button.active {
   <h3>Meme #8: Teacher Encouragement</h3>
   <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/teacher-encouragement.png" height="300" width="400" ></a>
   <p>How to strike true encouragement in the hearts of your students in modern times.</p>
+  
+  <h3>Meme #9: Memes Are Universal</h3>
+  <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/memes-are-universal.jpg" height="400" width="300" ></a>
+  <p>The beauty of memes is the fact that they are a universal and shared joke among the entire internet.</p>
 </div>
 
 <!-- Quotes Tab -->
