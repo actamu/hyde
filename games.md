@@ -16,8 +16,12 @@ title: Games
 > Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud. The game is frequently played as a party game or as a pastime: [Mad Libs - The World's Greatest Word Game](http://www.madtakes.com/)
 
 ## "Oh, the cleverness of me!"
-<a href="http://www.agame.com/game/the-impossible-quiz"><img src="https://actamu.github.io/laughing-aggies/public/images/the-impossible-quiz.png" height="300" width="450" ></a>
+<a href="http://www.agame.com/game/the-impossible-quiz"><img src="https://actamu.github.io/laughing-aggies/public/images/the-impossible-quiz.png" height="275" width="400" ></a>
 > If you find cleverness to be funny, then try out this game: [The Impossible Quiz](http://www.agame.com/game/the-impossible-quiz)!
+
+## Trollface Quest 13
+<a href="http://poki.com/en/g/trollface-quest-13"><img src="https://actamu.github.io/laughing-aggies/public/images/trolling-pic.jpg" height="300" width="450" ></a>
+> Are you a troll master? [Click here](http://poki.com/en/g/trollface-quest-13) to find out!
 
 ## List of Funniest Video Games to Play
 <a href="https://www.theguardian.com/technology/2017/sep/07/the-27-funniest-video-games-of-all-time-hitman-grand-theft-auto"><img src="https://actamu.github.io/laughing-aggies/public/images/goat-simulator.png" height="275" width="450" ></a>
