@@ -4,7 +4,7 @@ title: Timeline
 ---
 
 <p class="message">
-  Hey there! This page will exhibit the evolution of different types of humor over the past centuries, decades, and years. For the purposes of the mockup, we are going to leave the help links at the bottom of the page as sources to continue working on the project. The final product of this page will definitely not be including the bottom section of sources and only display the timeline created on Storyline. The timeline will display the different years as an interactive timetable so that when the reader hovers their cursor over the year, a picture and description will pop-up.
+  This page exhibits the evolution of different types of humor over the past centuries, decades, and years. For the purposes of simplicity, the timeline displays different years and days various types of humor and comedic people are released or presented to the public.
 </p>
 
 ## Example Timeline
