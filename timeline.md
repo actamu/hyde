@@ -37,7 +37,7 @@ title: Timeline
   </ul>
   <li>1722 A.D.</li>
   <ul>
-    <li><a href="http://mentalfloss.com/article/62668/6-ben-franklins-greatest-hoaxes-and-pranks">Benjamin Franklin</a>Hoaxes and Pranks</li>
+    <li><a href="http://mentalfloss.com/article/62668/6-ben-franklins-greatest-hoaxes-and-pranks">Benjamin Franklin</a> Hoaxes and Pranks</li>
   </ul>
   <li>1800s A.D.</li>
   <ul>
