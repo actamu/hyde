@@ -7,7 +7,7 @@ title: Timeline
   This page exhibits the evolution of different types of humor over the past centuries, decades, and years. For the purposes of simplicity, the timeline displays different years and days various types of humor and comedic people are released or presented to the public.
 </p>
 
-## Example Timeline
+## Humor Timeline
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/example_timeline.png" height="275" width="400" ></a>
 
 <ul>
