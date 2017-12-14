@@ -11,6 +11,10 @@ title: Timeline
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/example_timeline.png" height="275" width="400" ></a>
 
 <ul>
+  <li>400 B.C.</li>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Stand-up_comedy">Stand-up Comedy</a></li>
+  </ul>
   <li>350 A.D.</li>
   <ul>
     <li><a href="https://www.heritagedaily.com/2013/11/ancient-greeks-carved-out-catch-in-projectiles/100226">Ancient Greeks</a></li>
