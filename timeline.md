@@ -21,7 +21,7 @@ title: Timeline
   </ul>
   <li>350 A.D.</li>
   <ul>
-    <li><a href="https://www.heritagedaily.com/2013/11/ancient-greeks-carved-out-catch-in-projectiles/100226">Ancient Greeks</a></li>
+    <li><a href="https://www.heritagedaily.com/2013/11/ancient-greeks-carved-out-catch-in-projectiles/100226">Ancient Greeks Sarcastic Textiles</a></li>
   </ul>
   <li>400 A.D.</li>
   <ul>
