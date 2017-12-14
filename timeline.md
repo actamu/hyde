@@ -13,11 +13,11 @@ title: Timeline
 <ul>
   <li>350 A.D.</li>
   <ul>
-    <li><a href="https://www.heritagedaily.com/2013/11/ancient-greeks-carved-out-catch-in-projectiles/100226">Ancient           Greeks</a></li>
+    <li><a href="https://www.heritagedaily.com/2013/11/ancient-greeks-carved-out-catch-in-projectiles/100226">Ancient Greeks</a></li>
   </ul>
   <li>400 A.D.</li>
   <ul>
-    <li><a href="http://www.stoa.org/diotima/anthology/quinn_jokes.shtml">Philogelos (The Laughter Lover)</a> is a               collection of some 265 jokes, likely made in the fourth or fifth century CE.</li>
+    <li><a href="http://www.stoa.org/diotima/anthology/quinn_jokes.shtml">Philogelos (The Laughter Lover)</a> is a collection of some 265 jokes, likely made in the fourth or fifth century CE.</li>
   </ul>
   <li>422 A.D.</li>
   <ul>
@@ -29,15 +29,15 @@ title: Timeline
   </ul>
   <li>1722 A.D.</li>
   <ul>
-    <li><a href="http://mentalfloss.com/article/62668/6-ben-franklins-greatest-hoaxes-and-pranks">Benjamin Franklin</a>         Hoaxes and Pranks</li>
+    <li><a href="http://mentalfloss.com/article/62668/6-ben-franklins-greatest-hoaxes-and-pranks">Benjamin Franklin</a>Hoaxes and Pranks</li>
   </ul>
   <li>1800s A.D.</li>
   <ul>
-    <li><a href="https://www.npr.org/sections/npr-history-dept/2015/11/10/455415340/6-jokes-from-19th-century-america">19th     Century Jokes</a></li>
+    <li><a href="https://www.npr.org/sections/npr-history-dept/2015/11/10/455415340/6-jokes-from-19th-century-america">19th Century Jokes</a></li>
   </ul>
   <li>May 28th, 1892 A.D.</li>
   <ul>
-    <li><a href="https://www.irishtimes.com/news/offbeat/creamofjokes-11-jokes-that-were-funny-in-the-1800s-1.2575356">Cream     of Jokes</a>, a weekly competition run in <i>The Irish Times</i> in the late 19th century that awarded prize money to       the writer of the best gag.</li>
+    <li><a href="https://www.irishtimes.com/news/offbeat/creamofjokes-11-jokes-that-were-funny-in-the-1800s-1.2575356">Cream of Jokes</a>, a weekly competition run in <i>The Irish Times</i> in the late 19th century that awarded prize money to the writer of the best gag.</li>
   </ul>
   <li>1936 A.D.</li>
   <ul>
@@ -53,11 +53,19 @@ title: Timeline
   </ul>
   <li>November 25, 2008 A.D.</li>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=NL6CDFn2i3I">Badger, Badger, Badger</a>, the predecessor viral video of         Vine.</li>
+    <li><a href="https://www.youtube.com/watch?v=NL6CDFn2i3I">Badger, Badger, Badger</a>, the predecessor viral video of Vine.</li>
   </ul>
   <li>February 10, 2013 A.D.</li>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=4hpEnLtqUDg">Harlem Shake</a></li>  
+  </ul>
+  <li>July 25, 2016 A.D.</li>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=unVb0UL7Iz4">Vines</a></li>  
+  </ul>
+  <li>November 26, 2016 A.D.</li>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=U9t-slLl30E">Bad Lip Reading Parody</a></li>  
   </ul>
 </ul>
 
