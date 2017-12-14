@@ -67,6 +67,10 @@ title: Timeline
   <ul>
     <li><a href="https://www.youtube.com/watch?v=886hNDgwfMk">Monty Python and the Holy Grail</a></li>
   </ul>
+  <li>October 11, 1975 A.D.</li>
+  <ul>
+    <li><a href="https://www.nbc.com/saturday-night-live">Saturday Night Live (SNL)</a></li>  
+  </ul>
   <li>1989 A.D.</li>
   <ul>
     <li><a href="https://rabryst.ca/humour/tasteful/scott-adams-six-dimensions-of-humour/">Scott Adams' 6 Dimensions of Humor</a></li>
