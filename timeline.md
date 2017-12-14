@@ -11,6 +11,10 @@ title: Timeline
 <a href="url"><img src="https://actamu.github.io/laughing-aggies/public/images/example_timeline.png" height="275" width="400" ></a>
 
 <ul>
+  <li>480 B.C.</li>
+  <ul>
+    <li><a href="https://www.warhistoryonline.com/history/sailors-life-day-life-royal-navy-sailor-1806.html">Spartan Humor</a></li>
+  </ul>
   <li>400 B.C.</li>
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Stand-up_comedy">Stand-up Comedy</a></li>
