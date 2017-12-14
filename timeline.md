@@ -43,9 +43,17 @@ title: Timeline
   <ul>
     <li><a href="https://www.youtube.com/watch?v=HPSK4zZtzLI">Charlie Chaplin</a></li>
   </ul>
+  <li>May 13, 1937 A.D.</li>
+  <ul>
+    <li><a href="http://www.cracked.com/article_19119_7-memes-that-went-viral-before-internet-existed.html">Kilroy, the early meme</a></li>
+  </ul>
   <li>1945 A.D.</li>
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Kilroy_was_here">Kilroy</a></li>
+  </ul>
+  <li>April 1, 1974 A.D.</li>
+  <ul>
+    <li><a href="http://hoaxes.org/af_database/permalink/the_eruption_of_mount_edgecumbe/">The Eruption of Mount Edgecumbe Hoax for April Fool's Day</a></li>
   </ul>
   <li>1975 A.D.</li>
   <ul>
