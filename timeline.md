@@ -67,6 +67,10 @@ title: Timeline
   <ul>
     <li><a href="https://www.youtube.com/watch?v=886hNDgwfMk">Monty Python and the Holy Grail</a></li>
   </ul>
+  <li>1989 A.D.</li>
+  <ul>
+    <li><a href="https://rabryst.ca/humour/tasteful/scott-adams-six-dimensions-of-humour/">Scott Adams' 6 Dimensions of Humor</a></li>
+  </ul>
   <li>November 25, 2008 A.D.</li>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=NL6CDFn2i3I">Badger, Badger, Badger</a>, the predecessor viral video of Vine.</li>
