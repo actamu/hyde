@@ -4,7 +4,7 @@ title: Timeline
 ---
 
 <p class="message">
-  This page exhibits the evolution of different types of humor over the past centuries, decades, and years. For the purposes of simplicity, the timeline displays different years and days various types of humor and comedic people are released or presented to the public.
+  This page exhibits the evolution of different types of humor over the past centuries, decades, and years. For the purposes of simplicity, the timeline displays different years and days various types of humor and comedic people are released or presented to the public. <b>Click on the hyperlinks to learn more!</b>
 </p>
 
 ## Humor Timeline
